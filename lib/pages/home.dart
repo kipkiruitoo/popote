@@ -21,24 +21,31 @@ class _HomeState extends State<Home> {
     super.initState();
     pageController = PageController();
   }
+
+
+  var _pages = [
+    ServicesPage(),
+    AppointmentsPage(),
+    ProfilePage()
+  ];
+
+
+
   @override
   Widget build(BuildContext context) {
         return Scaffold(
-          body: PageView(
-            children: [
-              ServicesPage(),
-              AppointmentsPage(),
-              ProfilePage()
-            ],
+          body: IndexedStack(
+            index: getPageIndex,
+            children: _pages,
           ),
           bottomNavigationBar: CupertinoTabBar(
               items: [
-            BottomNavigationBarItem(icon: Icon(Icons.home)),
-            BottomNavigationBarItem(icon: Icon(Icons.favorite)),
-            BottomNavigationBarItem(icon: Icon(Icons.person))
+            BottomNavigationBarItem(icon: Icon(Icons.home), title: Text("Services")),
+            BottomNavigationBarItem(icon: Icon(Icons.calendar_today), title: Text("Appointments")),
+            BottomNavigationBarItem(icon: Icon(Icons.person), title: Text("Profile"))
           ],
-            activeColor: Color(0xFFB40284A),
-            inactiveColor: Color(0xFFB40284A).withOpacity(0.6),
+            activeColor: Colors.black,
+            inactiveColor: Colors.black.withOpacity(0.6),
             backgroundColor: Colors.white,
             currentIndex: getPageIndex,
             onTap: changePage,
@@ -54,9 +61,11 @@ class _HomeState extends State<Home> {
   }
 
   void changePage(int value) {
-    pageController.jumpToPage(
-      value,
-    );
+
+    setState(() {
+      getPageIndex = value;
+    });
+
   }
 }
 
