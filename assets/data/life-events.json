@@ -1,0 +1,976 @@
+[
+  {
+    "name": "Life Event-Birth",
+    "icon": "birth.png",
+    "title": "Birth",
+    "services": [
+      {
+        "service": "Birth Notification/Registration (immediately or within six months after date of birth).",
+        "information": "As soon as a child is born, he/she has a right to a name, an identity and to nationality for official identity and recognition, and not to be vulnerable to theft/trafficking, arraignment in a court of law or to child marriage. <br><br>To register a child, you need to fill birth notification form at the Hospital where the birth took place or at a Chiefs office  in cases of home birth. <br><br>Details required in birth notification and registration include;<br>1. Name of the newly born baby <br>2. Date and place of birth<br>3. Sex of the child<br>4. Type of birth (single/multiple) <br>5. Nature of birth (alive/dead) <br>6. Name, age and marital status, previous births to, residential area and district of mother<br>7. Name of father (for married couples) <br>8. Signature of the applicant<br><br>Persons who qualify to register a new born include: <br>1. Parents/ guardians of a newly born baby<br>2. Rescue centers taking charge of newly born abandoned babies<br>",
+        "cost": "NIL",
+        "timelines": "Instant",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989<br>"
+      },
+      {
+        "service": "Issuance of birth certificates (immediately or within six months after date of birth).",
+        "information": "A Birth Certificate provides proof that one is a Kenyan and similarly  is required by pupils and students applying to sit for their National Examinations.  It is also useful when applying for a National Identification Card when one turns 18 and in the application for a Kenyan Passport when in need to travel out of the country<br> <br>Application for birth Certificate can be done at any Huduma Centre countrywide or Civil Registration Department offices near you. <br><br>Requirements for a  Birth Certificate include the following; <br>1. Birth notification<br>2. ID's for both parents/Death Certificate if parents are deceased<br><br>Persons who qualify for this service include: <br>1. Parents/ guardians of a newly born baby<br>2. Rescue centers/ children’s homes taking charge of the child<br><br>",
+        "cost": "Birth certificate with no amendments - Ksh 60<br>Birth certificate with amendments on the child's names - Ksh 100<br>Birth certificate with amendments on the  parent's names - Ksh 100<br>Birth certificate with amendments on the child's and parent's names-Ksh 140<br>",
+        "timelines": "10 days",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email: director@crd.go.ke<br>Fax: 2714989<br><br>"
+      },
+      {
+        "service": "Late Notification/Registration of birth of children born of Kenyan parents in Kenya (after expiry of six months from the date of birth) and Issuance of birth certificates",
+        "information": "Late registration of births is highly discouraged. However, if not registered, you are required to fill and submit registration form in person at a Civil Registration Department offices near you. <br><br>The applicant will be vetted first for the registration to be effected.<br><br>Requirements to get this service include the following; <br>1. Clinic card/ antenatal card/birth notification<br>2. Religious Certificate<br>3. ID's for both parents/Death Certificate if parents are deceased<br>4. School leaving certificates/ letter from school<br>5. ID cards for adult applicants (over 18years) <br>6. Any other document as may be requested by the registrar <br><br>Persons who qualify for this service include: <br>1. Parents/ guardians of a newly born baby<br>2. Rescue centers/ children's homes taking charge of the child<br>3. Individual adults themselves<br>",
+        "cost": "Kshs. 90 or Kshs. 130 (Depends on assessment)nt)<br>",
+        "timelines": "10 days",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989<br><br>"
+      },
+      {
+        "service": "Late registration of birth of children born of Kenyan single mothers in Kenya",
+        "information": "Late registration of births is highly discouraged. However, if not registered, you are required to fill and submit registrations form in person at a Civil Registration Department offices near you. The applicant will be vetted.<br><br>Requirements; <br>1. Clinic/ Antenatal card<br>2. Religious certificate<br>3. Mother's Identity Card<br>4. Tangible evidence that the parent has never been married (affidavit/letter from chief) <br>5. School leaving certificates/ letter from school / Identity cards for adult applicants (over 18 years) <br>6. Any other document as may be requested by the registrar<br><br>Persons who qualify for this service include:<br>1. Single mothers of a newly born baby<br><br>",
+        "cost": "Ksh. 90 or Ksh. 130 (Depends on assessment)<br>",
+        "timelines": "10 days",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989<br>"
+      },
+      {
+        "service": "Late registration of birth of adults born of Kenyan parents in Kenya",
+        "information": "Late registration of births is highly discouraged. However, if not registered, you are required to fill and submit registrations form in person at a Civil Registration Department offices near you. <br><br>The applicant will be vetted.<br><br>One needs to have  the following; <br>1. National Identity Card (compulsory).<br>2. Clinic card.<br>3.  Religious Certificate.<br>4. School leaving certificates.<br>5. Employer's letter if employed. <br>6.  NSSF card if a contributor. <br>7.  Identification report from National Registration Bureau.<br>Persons who qualify for this service include: <br>1. Adults not registered.<br><br>",
+        "cost": "Kshs. 90 or Kshs. 130 (Depends on assessment)<br><br>",
+        "timelines": "10 days",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989<br><br>"
+      },
+      {
+        "service": "Late registration of birth of adults born of non- Kenyan parents in Kenya",
+        "information": "Adults born of non- Kenyan parents in Kenya need to fill and submit in person registrations form at Civil Registration Department offices near them for vetting ahead of registration <br><br>Requirements;<br>1. Parent’s entry permit/ passports (compulsory) <br>2. Clinic card/ birth notification<br>3. Religious certificate<br>4. Death certificates where parents are dead<br>5. School leaving certificate/ letter from school<br>6. Employer's letter if employed<br>7. NSSF card if a contributor<br>8. Any other documents as may be requested by the registrar<br><br>Persons who qualify for this service include:<br>1. Adults born of non- Kenyan parents and are not registered <br><br>",
+        "cost": "Ksh. 90 or Ksh. 130 (Depends on assessment)<br>",
+        "timelines": "10 days",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989<br>"
+      },
+      {
+        "service": "Registration of births of Kenyans occurring abroad and issuance of Kenyan birth certificates",
+        "information": "This service is only available at Sheria House, Nairobi and is provided to Kenyans whose births occur outside the country/ abroad. To get the service, one is required to fill Application of birth occurring abroad duly completed at Sheria House Nairobi- Civil Registration Department: Central Records Division and in Kenya Missions Abroad.<br><br>Requirements; <br>1. Foreign birth/ medical certificates and a certified English version of the same<br>2. Medical certificates from doctors/ nurse/ mid-wife who attended to the birth<br>3. Passport of the parent (s) <br>4. Marriage certificate where applicable<br>5. Traveling certificate (document) of the child if not endorsed in the passport of the parent<br><br>Persons who qualify for this service include: <br>Kenyans whose births occur outside<br><br>",
+        "cost": "Ksh. 60<br>",
+        "timelines": "10 days",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989<br>"
+      },
+      {
+        "service": "Birth Re-Registration Upon Legitimacy",
+        "information": "This is a service provided to parents who marry after the birth of their child and they want the name of the father inserted in the register of birth. To do this, the both parents need to fill application for re-registration form and sworn jointly by them. Both parents must be physically present when applying for re-registration <br><br>Requirements; <br>1. Parents Identification cards/ entry permit/ passport<br>2. Birth certificates without the father's name<br>3. Marriage certificate/ joint affidavit by both parents (LO2)<br><br>Persons who qualify for this service include: <br>1. Parents who marry after birth of a child \r<br><br><br>",
+        "cost": "Birth certificate with amendments on either parents or child's names- Ksh 100  <br>New birth certificate with amendments on the fathers names- Ksh 100<br><br>",
+        "timelines": "10 days",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989<br>"
+      },
+      {
+        "service": "Birth re-registration upon recognition",
+        "information": "This is a service provided to parents who are not married but want the name of the father inserted in the register of birth of the child. Birth re-registration is effected upon filling application for re-registration form sworn jointly by the parents. Both parents must be physically present when applying for re-registration <br><br>Requirements; <br>1. Parents Identification cards/ passport<br>2. Birth certificates without the father's name<br>3. Application for re-registration sworn jointly by the parents<br>4. Written consent from the father<br><br>Persons who qualify for this service include: <br>Parents not married who get a child <br><br>",
+        "cost": "New birth certificate with amendments on the fathers names - Ksh 100<br>",
+        "timelines": "10 days",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989<br>"
+      },
+      {
+        "service": "Prenatal Care/Antenatal Care  ",
+        "information": "This is the care given to expectant mothers during the pregnancy. The Care includes health checkups, issuance of supplements that ensure normal growth of the unborn,, guidance and counseling etc. This  service is available in all Government Hospitals and Clinics within the Counties.<br><br>The Government through The Ministry of Health (MOH) introduced Free Maternity Services and elimination of user fee for primary care to address critical barriers to health services by women and children. Similarly, through the First Lady’s “Beyond Zero” campaign, it is expected that no woman should die while giving  birth , and that every newborn, mother and child not only survives, but thrives. <br><br>MOH envisions Kenya where every pregnancy is wanted, every birth is celebrated and accounted for and where women, babies, children, and adolescents are free of HIV/AIDS, survive, thrive and reach their full social and economic potential.<br><br>",
+        "cost": "Free",
+        "timelines": "Instant",
+        "mda": "Ministry of Health, Afya House, Cathedral Road, P.O. Box: 30016–00100, Nairobi, Kenya. Telephone: +254-20-2717077 Email: ps@health.go.ke<br>"
+      },
+      {
+        "service": "Postnatal Care",
+        "information": "Postnatal Care is the care given to mothers and new borns after pregnancy/child birth. The Care includes health checkups, vaccinations,treatment, guidance and counseling etc. that ensure healthy lifestyle that  benefit the mother and the baby. These services are available in all Government Hospitals and Clinics in the Counties <br>",
+        "cost": "Free",
+        "timelines": "Instant",
+        "mda": "Ministry of Health, Afya House, Cathedral Road, P.O. Box: 30016–00100, Nairobi, Kenya. Telephone: +254-20-2717077 Email: ps@health.go.ke<br>"
+      }
+    ]
+  },
+  {
+    "name": "Life Event Education ",
+    "icon": "education.png",
+    "title": "Education",
+    "services": [
+      {
+        "service": "Placement at Public Pre-Primary and Primary Schools",
+        "information": "Parent/guardian are to enroll their child/children at any public pre-primary and public primary schools near their home of residence.<br><br>The minimum age for admission into a primary school is six years. Those below six years are to be enrolled for pre-primary. <br><br>School first term starts in January of every year.There are three terms in a year. Class hours at the schools are from 8.00 a.m. to 3.30 p.m. and extra-curriculum activities from 3.30 p.m. to 4.45 p.m.; Monday to Friday<br><br>It takes 8 years to transition from Class 1 to Class 8 at which point one is registered to seat for KCPE ",
+        "cost": "Nil - Free Tuition  <br>Nil - Free Learning Materials - Text Books",
+        "timelines": "8 Years ",
+        "mda": "Ministry of Education, State Department of Education,<br>Jogoo House B’, Harambee Avenue <br>020 318581<br>info@education.go.ke"
+      },
+      {
+        "service": "Registration of KCPE Examinations candidates",
+        "information": "Registration of Candidates for Kenya Certificate of Primary Education (KCPE) is cordinated by the Schools’ Head Masters via KNEC online portal; www.knec-portal.ac.ke. Private Candidates are registered for KCPE examination by the County Education Officers. \r<br>\r<br>\t\tKCPE examinations are set, administered, marked, and certificates awarded by Kenya National Examination Council (KNEC). The Government caters for the full cost of administering exams for all students in Kenya. \r<br>\r<br>\t\t",
+        "cost": "Nil",
+        "timelines": "3 Days ",
+        "mda": "The Kenya National Examinations Council National Housing Corporation House, Aga Khan Walk 020-3317412, 3317413, 3317419 info@knec.ac.ke. http://www.knec.ac.ke/home/index.php\r<br>\t\t"
+      },
+      {
+        "service": "Placement at Public Secondary Schools",
+        "information": "Placement at Sub-County, County, Extra County and National Public Secondary Schools are cordinated by the Ministry of Education after the release of KCPE Examination results.<br><br> Students placement to the schools are based on their KCPE performance. Students get admission letters via the Ministry of Education website http://www.education.go.ke. The best students get admitted into National Schools.<br><br> Secondary School first term starts in January of every year.There are three terms in a year. Class hours at the schools are from 8.00 a.m. to 3.30 p.m. and curriculum activities from 3.30 p.m. to 4.45 p.m.; Monday to Friday. Additionally for Boarding institutions;  5.00 p.m. to 7.30 p.m. is for self-directed activities, 7.30 p.m. to 9.30 p.m. preps, 9.30 p.m. to 6.00 a.m. bedtime and 6.00 a.m. to 8.00 a.m. supervised routine activities.<br><br>It takes 4 years to transition from Form 1 to Form 4 at which point one registered to seat for KCSE. Subjects to specialize in are to be informed by the students career objective as published and distributed to Schools by KNEC. The career book is also available online on KNEC website .",
+        "cost": "Government Fees Guideline;  Current fees payable by parents as stated on the Gazette Notice No. 1555 of March 2015 are as follows;<br>1. Boarding schools of all categories KES. 53,554<br>2. Day Schools KES 9,374 <br>3. Special Needs Secondary Schools KES. 37,210",
+        "timelines": "4 Years ",
+        "mda": "Minitry of Education, State Department of Education,<br>Jogoo House B’, Harambee Avenue<br> 020 318581<br>info@education.go.ke\r<br>\t\t"
+      },
+      {
+        "service": "Confirmation and Verification of KNEC Exams Results",
+        "information": "When seeking a job after Form 4 or seeking for admission at a local or international university, the employer/institution can seek verification of your Certificates or Results.<br> <br>To get your results verified, you will be required to download Verification and Confirmation of Results form from KNEC website http://www.knec.ac.ke fill and submit it individually or post to KNEC offices in Nairobi. <br><br> Details required include; <br>1. The exact names used during the examination.<br> 2. The applicant's (candidate's) full index number<br>3. The level and year of examination<br> 4. The name of the school/center where the examination was taken<br> 5. A copy of the certificate(s)/result slip (s) to be confirmed (Mandatory)<br> 6. Full address of the employer or institution where the statement of examination results is to be sent<br><br>After processing the application, the confirmation and verification results will be sent directly to your employer or institution as indicated on the application form.  ",
+        "cost": "KES 2,320",
+        "timelines": "10 working days to dispatch the statement to the employer/institution",
+        "mda": "The Kenya National Examinations Council<br>National Housing Corporation House, Aga Khan<br> Walk 020-3317412, 3317413, 3317419<br> info@knec.ac.ke.<br> http://www.knec.ac.ke/home/index.php"
+      },
+      {
+        "service": "Replacement of Lost KNEC Certificate",
+        "information": "To replace a lost KNEC Certificate, download Application for Replacement Certificate form from KNEC website; www.knec.ac.ke, fill appropriately and presented the form to KNEC offices in Nairobi. <br><br>Requirements:<br>1. Copy of certificate(s) or result slip(s)<br> 2. Police abstract indicating loss of the certificate(s)-ORIGINAL COPY<br>3. Recommendation letters addressed to KNEC from either of the following :<br>(i).From head-teacher of the school attended-ORIGINAL COPY<br> (ii).From CDE/DEO for private candidates or those whose schools have closed down- ORIGINAL COPY <br>(iii).From employer ORIGINAL COPY<br>4. Sworn legal affidavit on identity of applicant-ORIGINAL COPY<br> 5. Copy of National ID/Passport/Birth Certificate<br><br> Note; Copy of lost certificate or result slip is mandatory to get this service otherwise you cannot get this service",
+        "cost": "Kshs. 5,800",
+        "timelines": "A replacement certificate will be issued within three (3) months from the date of request",
+        "mda": "The Kenya National Examinations Council National Housing Corporation House, Aga Khan Walk 020-3317412, 3317413, 3317419 info@knec.ac.ke. http://www.knec.ac.ke/home/index.php\r<br>\t\t"
+      },
+      {
+        "service": "Placement for Universities and College Education in Kenya",
+        "information": "Placement to Public Universities and Colleges in Kenya under the Government student sponsorship program are by Kenya Universities and Colleges Central Placement Service (KUCCPS) who, after the release of KCSE Examinations select students for various courses as per their preferences and qualifications. Entry mark set for students considered for University studies is C+ and above.  <br><br>Students can also seek private enrollment at their preferred University or College at which point the University or College may independently admit the student as a private student.<br><br>University Education in Kenya last 4 Years; 1st Year through to 4th Year with exception for longer periods for Doctors, Engineers and such related courses.<br>Award of Degree is granted upon seating and passing the Univesity exams and related course requirements. Certificate and Diploma Courses in Colleges on the other hand take various periods. Certificate and Diploma Certificates are awarded to students who fullfill the requirement set for qualifying under the various courses.   <br> <br> Students can choose to advance to the next level in their career path. Graduates with Bachelors Degree can apply and pursue Masters Degree then further advance to Doctor of Philosophy Studies for award of PHD. Students with Certificate on the other hand can advance to Diploma, then to Higher Diploma at which point they can join the University programs to advance further. ",
+        "cost": "Nil application fees. However fees charged for training upon admission is as per Government directives from time to time",
+        "timelines": "Admissions are conducted annually after release of KSCE results. The various courses in colleges and university however have different durations and requirements for completion ",
+        "mda": "Kenya Universities and Colleges Central Placement Service (KUCCPS)ACK Gardens, 1st Ngong' Avenue, Upperhill Nairobi<br>            <br>Telephone : 0723954927, 0734879662<br>Email : info@kuccps.ac.ke<br>Website: kuccps.ac.ke<br> P. O. Box 105166 – 00101 "
+      },
+      {
+        "service": "Registration for KCSE exams",
+        "information": "To seat for KCSE, one need to be a holder of valid KCPE certificate or KCPE equivalent for students with foreign education. Students with qualification from other countries will need to equate their certification (Foreign candidates must sit for the KCSE qualifying exam a year before registering sitting for the examination to get KNEC equation letter). <br><br> <br> Candidate must enter a minimum of 7 subjects and maximum of 9 subjects.<br><br>Registrations for KCSE are done via www.knec-portal.ac.ke by Principals of the various Schools for Students in their Schools. Private Candidates registrtion are through the County Education Officers.<br><br>Registering to repeating KCSE exams is allowed; those registering for 7 subjects and above can repeat as many times as possible as long as they meet the entry requirements and their results will be graded accordingly. Repeaters taking less than 7 subjects must however sit for KCSE wihin two years preceding the year of their last siting. Candidates registering for less than 7 subjects will get a supplementary certificate that will only show the subjects attempted (this will not alternate the initial mean grade scored) and they will only be allowed to repeat twice in the 2 subsequent years following the 1st attempt.<br><br> Registration for KCSE examinations Candidates who are Physically or Mentally Challenged are also facilitated. Assistance needed by the candidate during the exam is usually stated during the registration.",
+        "cost": "Nil ",
+        "timelines": "Dependent on number of Courses taken with a maximum of 9 days if taking the maximum 9 subjects (Usually spread on different days of October and November depending on the academic year",
+        "mda": "The Kenya National Examinations Council National Housing Corporation House, Aga Khan Walk 020-3317412, 3317413, 3317419 info@knec.ac.ke. http://www.knec.ac.ke/home/index.php\r<br>\t\t"
+      },
+      {
+        "service": "Application for Education Loan/Application for Higher Education Students’ Loan",
+        "information": "To support needy students through college and university studies; in catering for their upkeep, the Government through the Higher Education Board (HELB) extend loans to learners. <br> <br> To be considered for the loan, one need to create an account on HELB application portal; www.helb.co.ke/registration/index.jsp, fill mandatory field provided in the application form, print the filled form, attach all documents required and drop off at HELB offices or at any Huduma Centre. <br> <br> Procedure: <br>-Visit www.helb.co.ke/registration/index.jsp<br>-Create account<br>-Fill application and Save it<br><br> -View application and ensure all details are correct<br>-Print form<br>-Attach all documents required and drop off at HELB offices or Huduma centre<br><br>Requirements:<br>-ID Card<br>-Bank Account<br>-KRA Pin<br>-Parents’ Particulars<br>-Parents’ death certificate (if you are an orphan)<br><br> Successful students get their loan credited directly into their Bank accounts in installments at the beginning of every semester.",
+        "cost": "Free for undergraduate students and Kshs. 2,000 for postgraduate/salaried students",
+        "timelines": "One month ",
+        "mda": "Higher Education Loans Board<br>Anniversary towers 1st Floor, University Way, Nairobi 0711052000, 020-2278000 customercare@helb.co.ke"
+      },
+      {
+        "service": "HELB Loan payment",
+        "information": "At completion of ones studies, repayment of the loan is expected.<br><br>To pay by Mpesa, on your mobile money Menu, Go to lipa na Mpesa, choose Paybill, Enter HELB paybill number 200800, enter your account number which is your ID Number, enter amount paying, enter PIN, confirm the transaction and submit the payments.<br> <br>For any Loan Recovery Enquiry eg. on the amount to pay per month, email billing@helb.co.ke or log on to HELB website.<br> <br>On other ways on how to pay for the loan and or any inquiry, visit any HELB offices or Huduma center countrywide. <br><br>To track the loan status over time, Log in into your HELB account and check under Loan Reports. Student guide to loan repayment  is also available on www.helb.co.ke/wp-content/uploads/2013/05/STUDENT-GUIDE-Loan-Repayment.pdf",
+        "cost": "Dependent on the loan amount disbursed",
+        "timelines": "Monthly",
+        "mda": "Higher Education Loans Board<br>Anniversary towers 1st Floor, University Way, Nairobi 0711052000, 020-2278000 customercare@helb.co.ke"
+      },
+      {
+        "service": "HELB clearance Certificate",
+        "information": "Upon clearing the loan issued, one can apply for the loan clearance certificate on the HELB portal or at any Huduma Centre. Those who did not get HELB loans but require the Board clearance Certificate  can apply for it too.<br> <br>Requirements: if not a HELB Beneficiary<br> -Duly filled enquiry form from HELB <br> -Letter by applicant confirming they did not receive a HELB loan<br> -Copy of High School exam card<br>-University/College transcripts<br>-Copy of National ID <br>-Employer appointment letter<br>- Bank slip of Kshs. 1000 paid to HELB<br>",
+        "cost": "Free for HELB beneficiaries and Kshs. 1000 for non beneficiaries",
+        "timelines": "Instant",
+        "mda": "Higher Education Loans Board<br>Anniversary towers 1st Floor, University Way, Nairobi 0711052000, 020-2278000 customercare@helb.co.ke"
+      },
+      {
+        "service": "Internship programmes",
+        "information": "Internship programmes are usually offered in all Government Departments, Ministries and Agencies. To apply for such, identify the MDA aligned to your area of study and submit your application letter for internship with attention to the CEOs/Human Resource Officers. Successful candidates are thereafter contacted to report on duty at a stated time.  Usually, internship programs last 3 months.",
+        "cost": "Nil",
+        "timelines": "N/A",
+        "mda": "N/A"
+      },
+      {
+        "service": "KASNEB Registration as a new student",
+        "information": "Kenya Accountants & Secretaries National Examination Board (KASNEB) is the examining body for Certified Accountants and Secretaries professionals in Kenya. <br><br>Registration for KASNEB exams can be done in any KASNEB office or Huduma Centre. To enroll for the varied KASNEB examinations, the following are required; <br>a. Credentials (KCSE result slip)<br>b. 2 passport size photos <br>c. Copy of ID",
+        "cost": "Fee varies dependent on the course sort",
+        "timelines": "10 minutes",
+        "mda": "Kenya Accountants & Secretaries National Examination Board (KASNEB),  KASNEB Towers, Off Hospital Road <br>(Near Kenyatta National Hospital, next to Real Insurance) <br>P.O. Box 41362 00100 <br>Nairobi, Kenya <br>Tel: 020 2712640, 020 2712828 <br>ISDN: 020 4923000 <br>Mobile: 0722201214, 0734600624<br> Email: info@kasneb.or.ke"
+      },
+      {
+        "service": "Registration of Adult Education ",
+        "information": "Adults who did not have the privilege to go to school in good time can be enrolled for basic education to know how to read and write and to advance through primary and secondary school education in building their career. The adult education program are extended by various learning Centres across the country. To know the learning Centres near you and be guided further, you can visit Ministry of Education offices or adult education desks at Huduma Centre ",
+        "cost": "Free consultancy at Huduma Centre",
+        "timelines": "Varies with the program chose",
+        "mda": "Minitry of Education, State Department of Education,<br>Jogoo House B’, Harambee Avenue<br>020 318581<br>info@education.go.ke"
+      },
+      {
+        "service": "Certificate in Special Education",
+        "information": "Those interested to be care givers for persons living with disability can enroll for Special Education training. This may include teachers, parents, social workers, caregivers and paramedics or other interested persons. Requirements for enrollment of Certificate Course in Special Education is O-level of education",
+        "cost": "Nil",
+        "timelines": "N/A",
+        "mda": "Kenya Institute of Special Education Kasarani, Thika Superhighway Exit 8 Off Kasarani-Mwiki Rd +254-786-392320, +254-719-764561 info@kise.co.ke "
+      },
+      {
+        "service": "Diploma in Special Education",
+        "information": "To be eligible for the Diploma Course in Special Needs Education (SNE) course, applicant may possess Certificate in Special Education or any other equivalent qualifications.",
+        "cost": "Nil",
+        "timelines": "N/A",
+        "mda": "Kenya Institute of Special Education Kasarani, Thika Superhighway Exit 8 Off Kasarani-Mwiki Rd +254-786-392320, +254-719-764561 info@kise.co.ke "
+      }
+    ]
+  },
+  {
+    "name": "3. Life Event-Turning 18",
+    "icon": "turning-18.png",
+    "title": "Turning 18",
+    "services": [
+      {
+        "service": "Getting initial Identification Card ",
+        "information": "Application of initial IDs are done at the National Registration Bureau offices countrywide - usually located within County Comissioner's offices or Chiefs camp. At the National Registration Bureau office, you will fill a form detailing your bio data after which your finger prints and passport photograph shall be taken. <br><br/>Requirements; <br>•Above 18 years <br> <br>Requirements for proof of age, names and place of birth;<br>•Birth certificates<br>• Religious Certificates<br>• School leaving Certificates <br>•Age assessment certificate from a medical officer of health.<br>•Child health card<br>•Notification of birth <br>•Letter of administrative officer-Chief/Assistant Chief<br>•Sworn Affidavits for late registration<br>• Proof in support of citizenship.<br>• Parents ID card for Kenyans by birth<br>• Certificate of registration as a Kenyan citizen (Kenyan by registration or naturalization)<br><br> Persons who qualify for this service are Kenyan citizens who have never been issued with an Identity Card. A waiting card is issued to the applicant upon successful application and shall be surrendered when collecting the processed ID card",
+        "cost": "Nil",
+        "timelines": "10 days ",
+        "mda": "National Registration Bureau<br> NSSF Building, Block B 8th Floor<br>  P.O Box 57007, 00200 Nairobi.<br> Tel: +254-20-2722526, +254-20-2720069<br> Email; director.nrb@kenya.go.ke <br> Fax number; 2716205"
+      },
+      {
+        "service": "Change of Particulars on ones ID Card",
+        "information": "Persons holding an ID card can change from one civil status to another e.g. Change of name upon marriage, change of location, additional name etc.<br><br> Requirements;<br> • Marriage Certificate<br>• Deed Poll<br>• School leaving Certificates<br>• Sworn affidavits<br>• Confirmation letters from administrative office<br>• Birth Certificate<br>• Copy of parents ID card<br>• Parental consent to marriage<br>• Divorce Certificate",
+        "cost": "Kshs 1000",
+        "timelines": "10 days",
+        "mda": "National Registration Bureau<br> NSSF Building, Block B 8th Floor<br>  P.O Box 57007, 00200 Nairobi.<br> Tel: +254-20-2722526, +254-20-2720069<br> Email; director.nrb@kenya.go.ke <br> Fax number; 2716205"
+      },
+      {
+        "service": "Obtain a voters card/Registration of voters National ID",
+        "information": "Voter Registration is the process whereby qualified Kenyans are registered by the Independent Electoral and Boundaries Commission (IEBC) to have the opportunity to elect leaders at the national and county levels (for Presidential, Governor, Senator, Woman Member of National Assembly, Member of National Assembly and Member of County Assembly candidates).<br><br> Once a person has been entered into the voters’ register after registering, then they are deemed to be a legally registered Voter and can participate in elections. A voter is registered at a specified polling station within a given Ward, Constituency and County where one wishes to vote.<br><br>Required;<br> National Identity Card or a Kenyan Passport.<br><br>Voter registrations and change of polling stations is also provided for at IEBC county offices. Registration of voters is also done at Huduma Centres and polling stations within specified times as advertised by IEBC from time to time. ",
+        "cost": "Free",
+        "timelines": "Instant ",
+        "mda": "Independent Electoral and Boundaries Commission University Way, Anniversary Towers, 6th Floor, Nairobi 020-2769000/ 020-2877000 info@iebc.or.ke"
+      },
+      {
+        "service": "Application for Certificate of Good Conduct/Police Clearance Certificate ",
+        "information": "Most job application in Kenya requires one to have a Certificate of Good Conduct. <br><br> Application for this clearance can be done at any Huduma Centre Countrywide or online; www.ecitizen.go.ke<br><br>Requirements:-<br>Original and copy of ID-Original and copy of birth certificate for those under 18",
+        "cost": "Ksh. 1000 ",
+        "timelines": "5 days ",
+        "mda": "Directorate of Criminal Investigation P.O. Box 30036 - 00100 Nairobi Kiambu Road Opp. Forestry Department Headquarters, Karura +254 20 512090/1 http://www.cid.go.ke "
+      }
+    ]
+  },
+  {
+    "name": "Life Event-Work",
+    "icon": "work.png",
+    "title": "Work",
+    "services": [
+      {
+        "service": "Recruitment/Jobs",
+        "information": "Government vacant positions announcements are advertised via;<br><br>• www.ajiradigital.go.ke.<br>• http://www.mygov.go.ke/<br>• Public Service Commission website; www.psckjobs.go.ke/Jobs.aspx, <br>• Other Autonomous and Semi-Autonomous Government Agencies (ASAGA) websites <br>• 47 County Government Websites and on newspapers<br><br Other initiatives by the Government include the Youth Employment Scheme Abroad under the Youth Enterprise Development Fund (YEDF) where in collaboration with Private Employment Agencies, youth across the county apply for advertised vacancies through YEDF officers in the Counties who collect applications forms and forward them for shortlisting.<br><br>Other initiatives by the Government include the Youth Employment Scheme Abroad under the Youth Enterprise Development Fund (YEDF) where in collaboration with Private Employment Agencies, youth across the county apply for advertised vacancies through YEDF officers in the Counties who collect applications forms and forward them for shortlisting.",
+        "cost": "Free",
+        "timelines": "N/A",
+        "mda": "Government Ministries, Department and Agencies "
+      },
+      {
+        "service": "Registration of NHIF membership",
+        "information": "To Register as an employed person, you will be required to have your Original and Photocopy of ID and introduction letter from your employer, your passport photograph, and particulars of your nuclear family members if applicable - Spouse copy of ID, copy of Marriage certificate/affidavit, Birth Notification(for Children 6 months and below) and Birth Certificate (for Children 7 months and above) and their passport photos . With this you will fill and submit NHIF Member application form at any NHIF office or Huduma Centres countrywide at which point you will be issued with an NHIF card. <br><br>NHIF membership is also open for self-employed persons. To register, one need their Original, Photocopy of ID, passport photograph, and particulars of his/her nuclear family members if applicable - copy of ID of the Spouse, copy of Marriage certificate/affidavit, Birth Notification(for Children 6 months and below) and Birth Certificate (for Children 7 months and above) and their passport photos. With this you will fill and submit NHIF Member application form at any NHIF office or Huduma Centres countrywide at which point you will be issued with an NHIF card.<br> <br>Services provided for NHIF members include in-patient and out-patient medical cover on; General Consultation, Diagnostics and treatment of common ailments<br>Laboratory and investigation, Dental services, Prescribed Drugs administration and dispensing, Management of chronic ailments (HIV/AIDS, Diabetes, Asthma, Hypertension, cancer), Health and wellness education/healthcare counselling such as Screening for conditions e.g. Cervical and prostate cancer, Treatment of sexually transmitted diseases, Radiology Services, Family planning/midwifery/ante/post-natal services, Physiotherapy Services, Referral for specialized services,  Maternity Cover;  Consultation and treatment for both mother and child, Child birth including caesarian section deliveries<br><br> To enjoy benefits for inpatient and outpatient cover, you need to choose a hospital where you shall be receiving medical care and treatment. Hospitals are categorized in 3; A - Government, B - Mission and C - Private with most services availed for free under category A and B. To choose a hospital, vist any NHIF offices countrywide.",
+        "cost": "Dependent on your gross income <br>Kshs. 500 monthly contribution",
+        "timelines": "Instant",
+        "mda": "National Hospital Insurance Fund NHIF Building,<br> Ragati Road, Upper Hill 0800 720 601, (020) 2723255/56,  (020) 2714793/94, (020) 2722527 info@nhif.or.ke<br>National Hospital Insurance Fund"
+      },
+      {
+        "service": "NHIF Amendment of Existing Membership",
+        "information": "Registered members may amend beneficiaries on their card to include wife, a new born child etc. Provision of this service is available at any NHIF offices or Huduma Centres <br><br> Requirements:<br>-NHIF number<br>-Original ID<br>-A duly filed amendment document<br>-Applicable documents attached ",
+        "cost": "Nil",
+        "timelines": "10 days",
+        "mda": "National Hospital Insurance Fund NHIF Building,<br> Ragati Road, Upper Hill 0800 720 601, (020) 2723255/56,  (020) 2714793/94, (020) 2722527 info@nhif.or.ke<br>National Hospital Insurance Fund"
+      },
+      {
+        "service": "Registration of NSSF Membership (Individuals)",
+        "information": "NSSF is a statutory Pension and Provident fund in Kenya mandated to collecting, safekeeping, responsible investment and distribution of retirement funds of individuals in both formal and informal sectors.<br><br>For informal sectors, individuals opt in by registering to be an NSSF member. Application for NSSF membership is available at all NSSF offices and Huduma Centres countrywide or on eHuduma. Requirement are Original and Copy of ID.<br><br>For those employed, contributions for retirement is compulsory with the Employees remitting Kshs. 200 on a monthly basis to NSSF and Employers contribution additional Kshs. 200 for the employee on a monthly basis. Requirements to get this service are -Introduction letter from employer and -Original and Copy of ID",
+        "cost": "Kshs. 200 on a monthly basis ",
+        "timelines": "Instant ",
+        "mda": "National Social Security Fund (NSSF)National Social Security Fund NSSF Building, Community, Nairobi (020) 2729911, 2710552, 0722-204192 info@nssfkenya.co.ke"
+      },
+      {
+        "service": "Registration of an employer with National Social Security Fund (employer)",
+        "information": "It is a statutory obligation for all employers to remit NSSF contributions for their employees.<br> To do this, employers need to be registered with NSSF by filling and submitting employer registration application form accompanied by  Certificate of Incorporation and Trading License. <br>This application can be done at any NSSF offices and Huduma Centres countrywide or online.",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "National Social Security Fund (NSSF)National Social Security Fund NSSF Building, Community, Nairobi (020) 2729911, 2710552, 0722-204192 info@nssfkenya.co.ke"
+      },
+      {
+        "service": "NSSF statements",
+        "information": "With your NSSF member number, you can obtain NSSF statement at any NSSF offices and Huduma Centres countrywide or online",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "National Social Security Fund (NSSF)National Social Security Fund NSSF Building, Community, Nairobi (020) 2729911, 2710552, 0722-204192 info@nssfkenya.co.ke"
+      },
+      {
+        "service": "Replacing NSSF card",
+        "information": "Available at all Huduma Centres countrywide. <br><br> Requirement Original ID",
+        "cost": "200",
+        "timelines": "Instant",
+        "mda": "National Social Security Fund (NSSF)National Social Security Fund NSSF Building, Community, Nairobi (020) 2729911, 2710552, 0722-204192 info@nssfkenya.co.ke"
+      },
+      {
+        "service": "Processing NSSF Claim /Application for NSSF Benefits",
+        "information": "On reaching the retirement age, to access your NSSF contributions, you need to claim your benefits at any NSSF office or Huduma Centre countrywide.<br><br> Requirements at the point of applying for the funds include;<br>-Claimant particulars and fingerprint forms dully filled  (forms available online on •NSSF website and at NSSF offices or at Huduma Centres)<br>-Bank Account details<br>-Letter of retirement - Must be 50 years and above<br>-Copy of ID card<br>-NSSF membership card",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "National Social Security Fund (NSSF)National Social Security Fund NSSF Building, Community, Nairobi (020) 2729911, 2710552, 0722-204192 info@nssfkenya.co.ke"
+      },
+      {
+        "service": "Application for Survivor Benefit",
+        "information": "Survivor of an NSSF member may claim the deceased contributions/funds/benefits provided application for benefits is logged at any NSSF office or Huduma Centre countrywide. <br><br>Requirements for claim to be processed include; <br>• Survivors’ application form dully filled <br>• Chief/DO form filled <br>• Authority to process claim form filled<br>• Original and copy of death certificate<br>Identification Card of next of kin",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "National Social Security Fund (NSSF)National Social Security Fund NSSF Building, Community, Nairobi (020) 2729911, 2710552, 0722-204192 info@nssfkenya.co.ke"
+      },
+      {
+        "service": "Pension and Savings for Informal Sector",
+        "information": " Voluntary retirement savings for those in informal employment are also encouraged through various initiatives and by various Pension Funds. One such initiative is mbao pension plan where one is encouraged to contribute  a minimum of Kshs. 20 per day through Mpesa. Registrations for such self-contribution pension plans are available at various Pension and Provident Fund offices and on various online platforms ",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "Retirement Benefits Authority<br>Rahimtulla Tower, 13th Floor,<br> Upper Hill Road,<br>Opp UK High Commission,<br>Nairobi.<br> P.O. Box 57733 - 00200<br>Nairobi, Kenya.<br> <br> Phone: +254 (20) 2809000<br> Fax: +254 (20) 2710330<br>Toll Free No: 0800720300 (Safaricom Network)<br>Email: info@rba.go.ke "
+      },
+      {
+        "service": "KRA PIN Registration/ PIN Update/ PIN Status ",
+        "information": "All persons and business receiving income or during business in Kenya are required to pay taxes. Inorder to pay tax, you need a registered tax payer with a KRA PIN.<br><br>KRA PIN can be applied for at any Huduma Centre countywide or made online. Online registration is accessible on KRA itax platform https://itax.kra.go.ke/KRA-Portal/eRegIndi.htm. Details to be input in KRA PIN registration include; email address and ID number for individual and 2 Company Directors’ copy of IDs, the Director’s PINs and Certificate of registration for companies registration.",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "Kenya Revenue Authority (KRA) Times Tower, Haile Selassie Avenue, Nairobi 020-4999999, 0711-099999 callcentre@kra.go.ke"
+      }
+    ]
+  },
+  {
+    "name": " Life Event Death",
+    "icon": "death.png",
+    "title": "Death",
+    "services": [
+      {
+        "service": "Death Reporting",
+        "information": "Reporting the occurrence of a death must be done as soon as it occurs and not later than three months after occurrence. <br><br>The report is made to the area Assistant Chief’s office if the death occurs at home and to the hospital personnel if the death occurs in hospital.<br><br>This should be done by relatives, owners of the house where the death has occurred or any person with full information on the occurrence of a death.<br><br> Required; <br>  1. Name, age and occupation of the deceased, cause, place and date of death<br>  2. Residential area and district of the deceased<br> 3. Name of informant (person giving the information)<br>4. Register of death form D1/D2 for deaths occurring in health institutions duly completed, or<br> 5. Register of death form D2/D3 for a death that occurs at home duly completed<br> 6. Post mortem report for death from unnatural course",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989"
+      },
+      {
+        "service": "Burial Permit",
+        "information": "Burial permit is issued by the Assistant chief or the hospital personnel who register the death ",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989"
+      },
+      {
+        "service": "Issuance of death certificates for all current death occurring in Kenya ",
+        "information": "Application for issuance of a death certificate can be done at any Civil Registration office or Huduma Centre Countrywide.<br><br> Persons who qualify to apply for a death certificate of a deceased person are the relatives of the deceased, insurance companies, employers or estate administrators.  <br> <br> Required; <br><br> 1. Burial permit or notification of death  <br>2. Form D4 (applications for death certificate) duly completed<br> 3. Knowledge of date of death where burial permit or notification of death is missing <br>  4. The deceased’s national identity card",
+        "cost": "Death Certificate with no amendments- Kshs 50 and Death Certificate with amendments- Kshs 130",
+        "timelines": "2 days ",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989"
+      },
+      {
+        "service": "Late registration of deaths (after expiry of three months from the date of death and issuance of death certificate)",
+        "information": "Late registration of death and issuance of death certificates are done at any Civil Regisration office countrywide. <br><br>The relatives of the deceased, insurance companies, employers or estate administrators are persons who qualify for this service . <br><br>Required;<br>1. Police report/letter from the chief/ health institution report confirming death<br> 2. Sworn affidavit by applicant confirming death<br> 3. I.D card of the deceased incase of an adult<br> 4. D4/A3 (registration of late deaths)duly completed<br> 5. I.D card of the applicant",
+        "cost": "Penalty for non-reporting -Kshs. 100<br> Death Certificate - Kshs 50",
+        "timelines": "2 days ",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989"
+      },
+      {
+        "service": "Registration of death of Kenyans occurring abroad and issuance of Kenyan death certificates",
+        "information": "Registration of death of Kenyans occurring abroad and issuance of Kenyan death certificates service is available in Nairobi at the Central Records Registry, Sheria House.<br><br>Next of kin of the deceased, insurance companies and employers (e.g. armed forces) are eligible for this service.<br><br> Requirements;  <br>  1. Medical certificates obtained from medical practitioner<br>2. Death certificates issued abroad and English version of the same certified by the Kenyan Mission abroad<br> 3. Disposal permit/ burial permit issued abroad <br> 4. Traveling document for the body to Kenya<br> 5. Disposal permit issued in Kenya<br> 6. Particulars of the deceased: passport, identification card<br> 7. BDA 2: Application for registration of death of a citizen of Kenya occurring abroad duly completed ",
+        "cost": "Kshs 50",
+        "timelines": "2 days ",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989"
+      },
+      {
+        "service": "Authentication/ confirmation of Death Certificates",
+        "information": "Immigration Department, National Registration Bureau, Pension Department, Foreign Missions, Employers or Insurance companies may apply for Authenticating/confirming death certificates presented to them.<br><br>They need the following to be provided for the service;   <br>  1. Copies of birth or death certificates<br>2. Letter requesting for the service<br>3. Register entry number, date and exact place of event",
+        "cost": "Nil",
+        "timelines": "14 days ",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br>P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989"
+      },
+      {
+        "service": "Death Announcement",
+        "information": "Kenya Broadcasting Corporation provides service that include death announcement. <br><br>One applying for this service needs to compile an obituary;the deased personal information and where the deceased will be buried or cremated ",
+        "cost": "Radio Taifa  ksh.25 per word, <br>English service - ksh.15 per word, <br>Coro FM - ksh.15 per word,<br> Pwani FM - ksh.15 per word, <br>Any other Vernacular ksh.13 per word.",
+        "timelines": "Instant",
+        "mda": "Kenya Broadcasting Corporation<br> Harry Thuku Road, Opp The Norfolk Hotel, Nairobi (020)341171. info@kbc.co.ke"
+      },
+      {
+        "service": "Application for Survivor Benefit/Assets ",
+        "information": "The next of kin to the deceased needs to apply for transfer of assets and benefits from the deceased.<br> <br>For the case of NSSF and Pensions benefits, the survivor requires;  Completed Survivor Benefit Application Form, National Identification Card of the next of kin applying and copy of death certificate of the deceased to be logged with NSSF and Pensions Department. <br><br>For financial assets in the Banks, depending on the amounts involved, the deceased legal representative may and in their absence, the registered next of kin; apply for the deceased estates. S/He will fill the requisite forms and attach a copy of the death certificate and certified letter from the local Chief or court order",
+        "cost": "Nil",
+        "timelines": "Varies depending on the claims at hand",
+        "mda": "NSSF, Pensions Department "
+      }
+    ]
+  },
+  {
+    "name": "Life Event Disability",
+    "icon": "disability.png",
+    "title": "Disability",
+    "services": [
+      {
+        "service": "Registration of Person living with disability",
+        "information": "Individuals with disabilities are registered on continuous basis by the Sub County Gender & Social Development Officer.<br> <br>Requirements for registration include; <br>•A colored passport sized photo<br>•A copy of a medical report from the government gazetted hospitals<br>•Dully filled individual registration form",
+        "cost": "Nil",
+        "timelines": "N/A",
+        "mda": "National Council for Persons with Disabilities (NCPWD) NCPWD has a National Office at the Kabete Orthopedic Compound opposite ABC Place along Waiyaki Way, Nairobi.The other office is at Mountain View estate, after Kangemi along Waiyaki Way Nairobi, Plot No. 195.Address: Box 66577-00800, Nairobi Telephone / Fax: 020 2375994 : 020 2314621 Email: ncpwds@africaonline.co.ke "
+      },
+      {
+        "service": "Registration of Disabled Persons Organizations (DPOs)",
+        "information": "All Disabled Persons Organizations (DPOs) are required to register with NCPWD. The applicant should fill out the Organization registration form accurately and correctly and forward to NPWD offices with a copy of registration certificate. Application forms are available online on http://ncpwd.go.ke/ ",
+        "cost": "Nil",
+        "timelines": "N/A",
+        "mda": "National Council for Persons with Disabilities (NCPWD) NCPWD has a National Office at the Kabete Orthopedic Compound opposite ABC Place along Waiyaki Way, Nairobi.The other office is at Mountain View estate, after Kangemi along Waiyaki Way Nairobi, Plot No. 195.Address: Box 66577-00800, Nairobi Telephone / Fax: 020 2375994 : 020 2314621 Email: ncpwds@africaonline.co.ke "
+      },
+      {
+        "service": "Application for Access to Government Procurement Opportunities (AGPO)",
+        "information": "Persons with Disability are encouraged to apply for AGPO certificates in order to apply for Government procurement opportunities/tenders. <br><br>AGPO Certificate can be applied for at any Huduma Centres countrywide.<br>Requirements to apply for AGPO certificate include;<br>a. ID from National Council for Persons With Disabilities (NCPWD)<br>b. Tax compliance <br>c. National ID <br>d. CR12: The disabled should have 70% of shares for a company applying for this service ",
+        "cost": "Nil",
+        "timelines": "N/A",
+        "mda": "Access to Government Procurement Opportunities Treasury Building 6th floor, Harambee Avenue, Nairobi 020-225 2299/ 316 433, 0728338111/ 0733660606 info@agpo.go.ke "
+      },
+      {
+        "service": "Application for Invalidity Benefits",
+        "information": "Individuals who get injured and are not able to continue to work   should apply for Invalidity benefits from NSSF.<br><br> Applications can be made from any NSSF Office or Huduma Centre.<br><br>Requirements:<br>-For the disabled<br>-Medical certificate from director of medical services<br>-Any age<br>-Application Form<br><br>",
+        "cost": "Nil",
+        "timelines": "N/A",
+        "mda": "National Social Security Fund(NSSF)  NSSF Building (Community)<br> Tel: 0722204192 Email: info@nssfkenya.co.ke"
+      },
+      {
+        "service": "Tax Exemption Application",
+        "information": "Tax exception is applicable for people living with disability, charitable organizations etc.<br><br>To apply for tax exemption in relation to personal income of Persons with Disabilities, an applicant is expected to fill induplicate Tax exemption form and attach the following:-<br>• A copy of pin certificate<br>• Certified copy of current pay slip where applicable <br>• A copy of the National Identification card <br>• A copy of a Doctors medical report from the government gazetted hospitals <br>• A letter from the employer where applicable stating the nature of disability<br><br>The form is to be submitted to the Director of Nation Council for persons with Disability (NCPWD) who shall upon verification of registration of the applicant by the Council sign and forward the application to the Commissioner for Domestic tax at Kenya Revenue Authority (KRA). <br><br>Determination by The Commisioner of Domestic Taxes will be subject to Applicants physically interviews before Domestic Taxes Department Officers in the nearest KRA offices<br>",
+        "cost": "Nil",
+        "timelines": "Instant ",
+        "mda": "Kenya Revenue Authority"
+      }
+    ]
+  },
+  {
+    "name": "Life Event-Health",
+    "icon": "health.png",
+    "title": "Health",
+    "services": [
+      {
+        "service": "Checking Body Mass Index and and issuance of health promotion messages",
+        "information": "You can check your body mass index and get medical advice at any Government health facility and at Huduma Centres countrywide  ",
+        "cost": "Kshs 100 ",
+        "timelines": "10 minutes",
+        "mda": "County Governments "
+      },
+      {
+        "service": "Yellow Fever Certificate",
+        "information": "Yellow fever certificates are available at most county hospitals ",
+        "cost": "Depends on point of service ",
+        "timelines": "N/A",
+        "mda": "County Governments "
+      },
+      {
+        "service": "Certificate of Good Health",
+        "information": "One can get Certificate of Good Health from any Government Hospital. Laboratory Tests will be conducted to inform the Doctors report  ",
+        "cost": "Ksh. 500",
+        "timelines": "N/A",
+        "mda": "County Governments"
+      },
+      {
+        "service": "Blood Pressure ",
+        "information": "You can get your blood pressure measured, medical advice given and referral made at any Government health facility and at Huduma Centres countrywide ",
+        "cost": "Nil ",
+        "timelines": "5 minutes",
+        "mda": "County Governments "
+      }
+    ]
+  },
+  {
+    "name": "Life Event-Complaints ",
+    "icon": "complaints.png",
+    "title": "Complaints",
+    "services": [
+      {
+        "service": "Receiving complaints on service delivery",
+        "information": "Complaints on service delivery can be logged with the Office of the Ombudsman whose mandate is to investigate any conduct in state affairs or any act or omission in public administration in any sphere of Government and complaints of abuse of power, unfair treatment, manifest injustice or unlawful, oppressive, unfair or unresponsive official conduct.<br><br>The Commission has a quasi-judicial mandate to deal with maladministration through, conciliation mediation and negotiation where appropriate.<br><br>Complaint to Ombudsman can be registered physically at any of the Commissions offices or at Huduma Centres. Complaints can also be logged by email, phone call and on Ombusdman website http://www.ombudsman.go.ke/complaint-form/     ",
+        "cost": "Nil",
+        "timelines": "5 minutes",
+        "mda": "Commission on Administrative Justice \"Office of the Ombudsman\" 2nd Floor, West End Towers  Opposite Aga Khan High School off Waiyaki Way – Westlands P.O. Box 20414 – 00200  NAIROBI. Tel: +254-20-2270000/2303000/2603765/2441211/8030666 Email : info@ombudsman.go.ke "
+      },
+      {
+        "service": "Reporting corruption cases",
+        "information": "Ethics and Anti-Corruption Commission gathers information on corruption occurring in Government and the public Sector from members of the public, officials working in both the public and private sectors, and from the media.<br><br>All complaints and reports received to the Commission undergo a rigorous process of analysis and as guided by the Ethics and Anti-Corruption Act (2011), investigated, referred to other agencies and disposed accordingly.<br><br>Information can be provided to EACC in writing, by telephone or by presenting it personally to the Commission's Report Centre at Integrity Centre in Nairobi and and other Regional Offices (Mombasa, Eldoret, Kisumu, Nyeri and Garissa) and at any Huduma Centre countrywide. Corruption reports can also be submitted anonymously through the Commission Anonymous Whistleblower's Website;; https://www.bkms-system.net/bkwebanon/report/clientInfo?cin=111KACC33&language=eng  ",
+        "cost": "Nil",
+        "timelines": "2 minutes",
+        "mda": "EACC, Report Center  Ground Floor, Integrity center,  Valley Road/Milimani Road Junction.Nairobi P.O. Box 61130 00200 Nairobi , Kenya Phone (Hot Line)/ Fax; 020 2717468/020 2717473 Email; report@integrity.go.ke "
+      },
+      {
+        "service": "EACC Clearance Certificate ",
+        "information": "Ethics and Anti-Corruption Commission gives Clearance Certificates to individuals seeking public or private offices.<br><br> Clearance Certificates can be applied for at any Huduma Centre countrywide.<br><br> Applicants are expected to fill the EACC clearance application form in duplicate and have it sworn before a Magistrate. The forms are then presented to the EACC counter where they are stamped. The applicant retains one copy while the second copy forwarded to EACC backoffice for investigations. Feedback of the investigation are sent to the employer or institution to who the applicant indicate on the application form",
+        "cost": "Nil",
+        "timelines": "5 mins  ",
+        "mda": " EACC, Report Center Ground Floor, Integrity center,  Valley Road/Milimani Road Junction.  Nairobi P.O. Box 61130 00200 Nairobi , Kenya Phone (Hot Line)/ Fax; 020 2717468/020 2717473  Email; report@integrity.go.ke "
+      },
+      {
+        "service": "Complaints on ethnic discrimination and hate speech ",
+        "information": "Complaints on ethnic discrimination, harassment on the basis of ethnicity, discrimination in employment on the basis of ethnicity, on hate speech (incitement on the basis of ethnicity) and offense of ethnic/Racial contempt are to be reported to NCIC through a physical letter to the Commission or through various electronic channels ",
+        "cost": " Nil",
+        "timelines": "N/A",
+        "mda": " National Cohesion and Integration Commission KMA Center,6th Floor, Mara Rd, Upper hill P. O. Box 7055-00100 Tel. +254-20-2585702/3/1 Email: info@cohesion.or.ke Website: www.cohesion.or.ke Twitter: ncic_kenya"
+      },
+      {
+        "service": "Information of causes of crime and its prevention",
+        "information": "National Crime Research Center conduct research and address current and pressing crimes according to research guidelines, procedures and ethics and avail the publications in their Resource Centre ",
+        "cost": " As per the TOR and the terms of the Contract",
+        "timelines": "N/A",
+        "mda": "National Crime Research Center ACK Garden Annex - Ground Floor, 1st Ngong Avenue, off Bishop's Road, Nairobi 020 - 2714735 director@crimeresearch.go.ke"
+      },
+      {
+        "service": "Complaint against Police ",
+        "information": "The Independent Policing Oversight Authority receives complaints of Police misconduct, neglect of duty and on incidents of death and serious injury caused by Police. Police <br><br>'Misconduct’ includes using of unreasonable force, corruption, dishonesty, perjury, threats or harassment, unlawful arrest, and a wide range of other acts.<br><br>‘Neglect of duty’ includes failure to investigate, failure to prosecute or respond to a crime, failure to provide proper care for people in custody, and failure to notify a person of a matter affecting them (such as a Court appearance).",
+        "cost": " Nil",
+        "timelines": "Instant ",
+        "mda": "The Independent Policing Oversight Authority 1st Ngong Avenue, ACK Garden Annex, 2nd floor P.O. Box 23035 – 00100 Nairobi, Kenya Tel: 254 20 490 600 E-mail: info@ipoa.go.ke "
+      },
+      {
+        "service": "Crime reporting ",
+        "information": "Crimes reporting are to be reported to any police station across the country. Reports can also be logged through 999.",
+        "cost": " Nil",
+        "timelines": "Instant ",
+        "mda": "Kenya Police Headquarters,<br>Vigilance House, Harambee Avenue,<br>PO BOX 30083,<br>Nairobi, Kenya.<br>Telephone: (020) 341411/6/8"
+      }
+    ]
+  },
+  {
+    "name": "Life Event-Business",
+    "icon": "business.png",
+    "title": "Business",
+    "services": [
+      {
+        "service": "Name Search for Businesses and Companies ",
+        "information": "Business name search and reservation is availed online; www.ecitizen.go.ke.<br><br> Required <br>• Create account on www.ecitizen.go.ke, Sign in, <br>• Select Name Search and Reservation Service, input a preferred name and name description for business/company, <br>• make payments and Submit.<br><br>Submitted names are evaluated and approval by Business Registration Service teams with communication of successful names reservation made to the applicant who is then required to register the business/company within the period of the name reservation",
+        "cost": "100 per name",
+        "timelines": "1 day",
+        "mda": "Business Registration Service, State Law Office And Department Of Justice, Sheria House, Harambee Avenue P.O. Box 40112 – 00100 Nairobi Telephone: +254 020 2227461 / 2251355 Mobile : +254 700072929 /+254 732529995 Fax: +254 020 213956 .Email: ag@ag.go.ke  Email: attorney.general@kenya.go.ke "
+      },
+      {
+        "service": "Registration of Business Name",
+        "information": "Business name registration is availed online through www.ecitizen.go.ke<br><br> To access the service, you are required to Sign in to the www.ecitizen.go.ke, Select Business Name Registration Service, Fill the electronic form provided, print and sign the electronic forms (by the applicant for sole proprietorship and all partners in the case of a partnership), attach the electronic form and other required documentation on the portal, Make requisite payment and Submit.<br><br>Attachments required; <br>a. Applicant (s) Copy of National ID <br>b. Applicant (s)  KRA pin <br>  c. Applicant (s)  Passport-size photo <br><br>  Upon successful registration of the Business Name, Certificate of registration is emailed to the applicant by Business Registration Service ",
+        "cost": "Ksh. 800",
+        "timelines": " 2 weeks",
+        "mda": "Business Registration Service, State Law Office And Department Of Justice,Sheria House, Harambee Avenue<br> P.O. Box 40112 – 00100 Nairobi Telephone: +254 020 2227461 / 2251355  Mobile : +254 700072929 /+254 732529995 Fax: +254 020 213956.Email: ag@ag.go.ke Email: attorney.general@kenya.go.ke"
+      },
+      {
+        "service": "Company Registration/Registration of Limited Companies",
+        "information": "Company reservation is availed online through www.ecitizen.go.ke. <br><br> Requirements;<br> a. Copy of IDs for the Directors <br>b. KRA PIN for the Directors <br> c. Passport-size color photo for each of the Directors<br>d. Name of Company (as reserved)<br> e. Memorandum of Association<br>f. Articles of Association<br> g. Notification of Directors residential address<br> h. statement of nominal share capital <br><br> Upon successful registration of the Company, Certificate of Registration is emailed to the applicant by Business Registration Service. Besides the Registration Certificate, KRA PIN, NSSF registrations are effected once application for Company registration is logged and Certificates of Registration provided on email",
+        "cost": "Ksh. 10,000",
+        "timelines": "2 weeks",
+        "mda": "Business Registration Service, State Law Office And Department Of Justice,Sheria House, Harambee AvenueP.O. Box 40112 – 00100 Nairobi Telephone: +254 020 2227461 / 2251355 Mobile : +254 700072929 /+254 732529995 <br> Fax: +254 020 213956 .<br>Email: ag@ag.go.ke Email: attorney.general@kenya.go.ke "
+      },
+      {
+        "service": "Application of Single Business Permit",
+        "information": "Requirements: <br>-Completed application form   <br>-Completed Statutory payment for license",
+        "cost": "Kshs. 200",
+        "timelines": "N/A",
+        "mda": "All County Governments "
+      },
+      {
+        "service": "KRA PIN Registration/ PIN Update/ PIN Status/ Tax Compliance Certificate ",
+        "information": "The KRA Tax Compliance Certificate is required by individuals and companies in order to qualify for some positions or to apply for tenders. Application for Tax compliance Certificate (TCC) can be made at any Huduma Centre countywide or made on KRA itax platform https://itax.kra.go.ke/KRA-Portal/.<br><br> For online TCC application, log in itax platform, under the Certificates Tab, click on apply for TCC, fill in the details and submit. Upon the application submission, the TCC will be sent to your email address for printing after processing.",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "Kenya Revenue Authority (KRA) Times Tower, Haile Selassie Avenue, Nairobi 020-4999999, 0711-099999 callcentre@kra.go.ke"
+      },
+      {
+        "service": "Announcements/Advertising ",
+        "information": "Businesses need brand visibility and public awareness of their products and services to gain public confidence and build demand for their products/services.<br> <br>  This can be achieved through commercial announcements/advertising on KBC radio and KBC television stations.",
+        "cost": "Radio Taifa - ksh.35 per word, English service - ksh.18 per word, Any other Vernacular ksh.18 per word.",
+        "timelines": "At scheduled slots ",
+        "mda": "Kenya Broadcasting Corporation (KBC), Harry Thuku Road, Opp The Norfolk Hotel, Nairobi, P.O. Box 30456-00100, Nairobi. Telephone; (020)341171. Email; info@kbc.co.ke."
+      },
+      {
+        "service": "Courier Services",
+        "information": "Courier services is provided at any Postal Corporation office countrywide. POSTA also provide fast delivery courier service; EMS",
+        "cost": "Depends on the package",
+        "timelines": "At scheduled slots ",
+        "mda": "Postal Corporation of Kenya Posta House, off Kenyatta Avenue P. O. Box 34567 GPO Nairobi, 00100 Kenya Cell: 0719072600 / 0734108120 Tel: +254 20 324 2600 info@posta.co.ke http://www.posta.co.ke"
+      },
+      {
+        "service": "Application for Access to Government Procurement Opportunities",
+        "information": "In order to apply for Government procurement opportunities/tenders one needs AGPO Certificate. AGPO Certificate can be applied for at any Huduma Centres countrywide;<br> <br> Requirements for Youth/Women:<br> a. Registration certificate for the business <br>  b. Tax compliance certificate <br> c. Copy of ID of partners/ directors <br> d. CR12 for Ltd. Company (Majority shareholder should have 70% of shares)<br> e. Certificate for construction- NCA certificate needed<br>f. For partnership Stamped deed from lawyer and partners signatures (if one of the partners is above 34yrs-for men) ",
+        "cost": "Free",
+        "timelines": "2 days",
+        "mda": "Access to Government Procurement Opportunities Treasury Building 6th floor, Harambee Avenue, Nairobi 020-225 2299/ 316 433, 0728338111/ 0733660606 info@agpo.go.ke"
+      },
+      {
+        "service": "Credit services to women entrepreneurs",
+        "information": "Requirements  a. Certificate of registration by social services valid for more than 3 months <br> b. Bank statement for bank account active for at least 3 month <br> c. Training certificate<br>d. Minutes showing interest in the fund<br>e. Copies of IDs<br>f. List of members with 80% of their phone numbers ",
+        "cost": "Nil",
+        "timelines": "10 minutes(2 months to get loan)",
+        "mda": "Women Enterprise Fund (WEF)"
+      }
+    ]
+  },
+  {
+    "name": "Life Event-Driving",
+    "icon": "driving.png",
+    "title": "Driving",
+    "services": [
+      {
+        "service": "Applying for Driving Licence ",
+        "information": "A driving license enables an individual to drive / operate a vehicle or motor cycle on the road. There are several categories of driving licenses, namely: <br>• Class \"E\" – allows a driver to drive light vehicles only.<br>• Class \"B, C and E\" – allows driver to drive both light vehicles and heavy commercial vehicles.<br>• Class \"I\" – This is a special license that incorporates authority to drive articulated motor vehicles, prime movers, forklifts, shovels, e.t.c<br> <br>  Application for driving licence can be done online on eCitizen.<br> <br> Requirements;<br>• The applicant must be over 18 years of age when applying for a motor vehicles driving license, and over 16 years of age when applying for a motor cycle license.<br>• Copy of National Identity card and two recent passport size photographs of the applicant.<br>• Duly filled application form <br>• The applicant must have learned how to drive at a registered driving school.<br>•The applicant must also undergo a driving test examination that is conducted by driving test examiners (police officers)<br> <br>• An interim Driving License is issued to the applicant while waiting for the actual driving license upon passing the drivers test. The interim/provisional driving license is valid for 3 months after which, you are expected to have your full license which is valid for as long as 3 years depending on the license you paid for.",
+        "cost": "You will be required to pay a fee of Ksh.600 to book the driving test as well as Ksh.600 for the provisional driving license.<br><br>One year annual fee - Ksh.600/= <br><br>Three years triennial fee -Ksh.1,400/= (Payment made via M-Pesa)",
+        "timelines": "N/A",
+        "mda": "National Transport & Safety Authority (NTSA) Hill Park Building; Upper Hill 0709 932 000, 020 6632 000 info@ntsa.go.ke"
+      },
+      {
+        "service": "Online Renewal of Drivers’ license",
+        "information": "Requirements:<br> a. Name <br>b. ID number <br> c. Email address",
+        "cost": "a. One year -  650<br>b. Three years - 1450 (Payment made via M-Pesa)",
+        "timelines": "30 minutes (Depending on whether details are available in the system) ",
+        "mda": "National Transport & Safety Authority (NTSA) Hill Park Building; Upper Hill 0709 932 000, 020 6632 000 info@ntsa.go.ke"
+      }
+    ]
+  },
+  {
+    "name": "Life Event-Marriage",
+    "icon": "marriage.png",
+    "title": "Marriage",
+    "services": [
+      {
+        "service": "Civil Marriage ",
+        "information": "A civil marriage is one that is performed, recorded and recognized by a Government official.<br><br>Eligibility;<br>-Be above 18 years. <br>-Consent to the the marriage<br>-The marriage must be one accepted by the government of Kenya of a Man and Woman.<br><br>Procedure <br>1.Complete Notice of Intention to Marry form<br>2.After the 21 days, the couple fills the affidavit under S 11 of the Marriage Act, and then gets it commissioned by the Registrar and completes a Marriage Certificate Form.<br> 3.If the application is approved, the couple then after paying a fee, books a date for the marriage. The marriage must take place within three months from the date of giving the 21-day notice.<br>4.On the Marriage date, both parties will go to the Registrar’s Office with two witnesses and they will be granted the Marriage Certificate<br> <br>  The marriage certificate is valid as long as the couple is married.",
+        "cost": "Notice - Ksh. 200 <br> Marriage Certificate - Ksh. 1,500",
+        "timelines": "N/A",
+        "mda": "SHERIA HOUSE, HARAMBEE AVENUE <br> P.O. Box 40112-00100, Nairobi, Kenya<br> Tel: +254-2-2227461/2251355<br>0711 9445555/0732 529995<br> E-mail: info@ag.go.ke  "
+      }
+    ]
+  },
+  {
+    "name": "Life Event-Lost documents",
+    "icon": "lost-documents.png",
+    "title": "Lost Documents",
+    "services": [
+      {
+        "service": "Replacing NSSF card",
+        "information": "This can be done at NSSF Offices and at Huduma Centres.<br>Requirements:<br>-ID Card Photocopy",
+        "cost": "Ksh. 200",
+        "timelines": "Instant",
+        "mda": "National Social Security Fund NSSF  NSSF Building, Bishops Road,Nairobi. Tel: 0202729911<br>0202710552<br>0734333238<br> 0722004192<br>Email:info@nssfkenya.co.ke"
+      },
+      {
+        "service": "Replacing NHIF card",
+        "information": "This can be done at NHIF Offices and at Huduma Centres.<br>Requirements:<br>-ID Card Photocopy",
+        "cost": "Ksh. 100",
+        "timelines": "Instant",
+        "mda": "National Hospital Insurance Fund NHIF  NHIF Building, RagatiRoad,UpperHill Tel:<br> 020272325<br>0800720601<br> Email: customercare@nhif.co.ke<br>info@nhif.co.ke"
+      },
+      {
+        "service": "Replacement of National  Identification Card",
+        "information": "This is done at any Huduma Centre countrywide<br>Requirements:<br>-Police Abstract",
+        "cost": "Ksh. 100",
+        "timelines": "10 days",
+        "mda": "National Registration Bureau NRB  NSSF Building, Block B, 2nd Floor, National Registration Bureau"
+      },
+      {
+        "service": "Issuance of Police Abstract",
+        "information": "This is done at any Huduma Centre countrywide<br> Requirements:<br> a. Number of lost document (if known)<br>b. Full names",
+        "cost": "Nil",
+        "timelines": "2 mins",
+        "mda": "National Police Service <br>Jogoo House 'A'<br>Taifa Road <br> P.O.Box 44249 - 00100<br> NAIROBI  <br>Kenya <br>Email: <br> nps@nationalpolice.go.ke<br> Phone:+254-020-2221969"
+      },
+      {
+        "service": "Replacement of Birth Certificate",
+        "information": "One can replace a lost birth certificate on condition that they have a copy of their Birth Notification or Birth Certificate. If you do not have this, you will be required to go to the Civil Registry in your County for retrieval of this copy.",
+        "cost": "Nil",
+        "timelines": "N/A",
+        "mda": "Department of Civil Registration<br>Hass Plaza 4th Floor, Lower Hill Road,<br> P.O Box 49179- 00100 Nairobi<br>Tel; +254-20-2714987/8<br>Email; director@crd.go.ke<br>Fax; 2714989 "
+      }
+    ]
+  },
+  {
+    "name": "Life Event-Licenses and permits",
+    "icon": "licenses-and-permit.png",
+    "title": "Licenses and permit",
+    "services": [
+      {
+        "service": "Renewal of gaming licenses(Betting)",
+        "information": "Requirements;<br>1. Submission of audited accounts <br>2. Tax compliance certificates from KRA",
+        "cost": "Renewal fee Ksh. 25,000, <br> Annual license fee Ksh. 500,000",
+        "timelines": "N/A",
+        "mda": "Betting Control and Licensing Board KCS House, 3rd & 8th Floor Mama Ngina Street, Nairobi 020-316471, 2220186 bclb@homeaffairs.go.ke -Kenya Charity Sweepstake House  3rd and 8th floor, Mama Ngina Street"
+      },
+      {
+        "service": "Renewal of gaming licenses(Kenya Charity Sweepstake)",
+        "information": "Requirements;<br>-Submission of bank guarantee of Ksh. 500,000<br>-Report of compliance with the law Within one month",
+        "cost": "Renewal fee Ksh. 25,000,  <br>Annual license fee Ksh. 500,000",
+        "timelines": "N/A",
+        "mda": "Kenya Charity Sweepstake House 3rd and 8th floor, Mama Ngina Street"
+      },
+      {
+        "service": "Renewal of bookmakers license(Kenya Charity Sweepstake)",
+        "information": "Requirements;<br>-Submission of audited accounts and tax compliance certificates from KRA. <br>-Submission of bank guarantee of Ksh. 100,000 report of compliance with the law within one month",
+        "cost": "Renewal fee Ksh. 5,000,  Annual license fee Ksh. 100,000",
+        "timelines": "N/A",
+        "mda": " Kenya Charity Sweepstake House  3rd and 8th floor, Mama Ngina Street"
+      },
+      {
+        "service": "Fund Managers, Custodian and Fund Administrator Licensing ",
+        "information": "Download Service Provider Registration And Licensing   Forms   From Our Website:  www.rba.go.ke",
+        "cost": "i.)Fund Managers Fee: Ksh. 50,000  <br> ii.)  Custodians Fee Ksh. 50,000 <br> iii.)Administrators Fee Ksh. 50,000",
+        "timelines": "N/A",
+        "mda": " Retirement Benefit Authority<br>Rahimtulla Tower, 13th Floor,Upper Hill Road, Opp UK High Commission"
+      },
+      {
+        "service": "Seasonal Parking tickets ",
+        "information": "Requirements;<br> a. Vehicle registration number<br> b. Name of owner<br>",
+        "cost": "a. Private/saloons- 2000 pm<br>b. Motor bikes and scooters- Kshs. 1000 pm<br>c. Canter- Kshs. 3000 pm<br>d. Lorries- Kshs. 4000 pm<br>e. Trailers Kshs. 20,000 pm<br>Nairobi; Kshs 300 per day",
+        "timelines": "3 mins",
+        "mda": "Respective County Government"
+      },
+      {
+        "service": "Issuance of Single Business Permit",
+        "information": " Requirements;<br> a. Copy of National Identity Card<br> b. Copy of Registration Certificate of the Company or Name<br> c. Plot Number<br> d. Physical address<br> e. Renewal-Business number ",
+        "cost": "Depends on category of business",
+        "timelines": "10 minutes ",
+        "mda": "Respective County Government"
+      },
+      {
+        "service": "Payment of Rent & Rates ",
+        "information": "Requirements;<br>a. New applicant has to go to back office<br> b. Old- previous payment (UPN number)<br> c. House number ",
+        "cost": "Fee advised ",
+        "timelines": "3 mins ",
+        "mda": "Respective County Government"
+      },
+      {
+        "service": "Impounding charges ",
+        "information": "Requirements;<br>Bond showing charges ",
+        "cost": "Fee advised ",
+        "timelines": "5 mins ",
+        "mda": "Respective County Government"
+      },
+      {
+        "service": "Liquor licensing ",
+        "information": "Requirements;<br>Authority from Liquor Board",
+        "cost": "Fee varies ",
+        "timelines": "1 day ",
+        "mda": "Respective County Government"
+      }
+    ]
+  },
+  {
+    "name": "Life Event-Land & Housing",
+    "icon": "land-and-housing.png",
+    "title": "Land and housing",
+    "services": [
+      {
+        "service": "Application of search certificate",
+        "information": "When a buyer wants to establish the ownership of a piece of land or if the land has any encumbrances he/she may conduct search for of the Land/Title Deed at the respective regional land registries offices. <br><br>  Requirements;<br>-Completed application form<br> -Copy of ID card<br>-PIN number",
+        "cost": "Kshs 500",
+        "timelines": "N/A",
+        "mda": "Ministry of Lands & Physical Planning <br>1ST NGONG AVENUE,<br>P.O. BOX 30450-00100,<br>NAIROBI,KENYA.<br>TEL: 254-020-2718050<br>FAX: 254-020-2721248"
+      },
+      {
+        "service": "Application of Title Deed",
+        "information": "Title Deed is the only proof of land ownership in Kenya. Title Deeds in Kenya are issued by Ministry of Lands, Housing and Urban Development at the Ministry' regional registries offices.<br><br> This service is required by all who buy land and need to Transfers Land ownership and Banks/Finanial institutions who Charges and Discharges Title deeds as security to loan facilities. Need to change ownership can also be by next if kin to a deceased pursuing succession. <br><br>Requirements: <br> <br>Transfer document, Pin number, 2 sets of passport size photographs for each party, Certified Copy of ID, Necessary clearances and consent, Appearance and identification of relevant parties<br>Name of owner, Address of owner, Nature of title, Plot Number, Approximate area., Registry map Sheet Number, Title Number <br> Procedure<br>-Perform an official search ; you will need a copy of the title deed of the land. Fill in the search application form and attach the title .In most District Land Offices, copies of your ID and Pin Certificate are required.<br> -Obtain Rates Clearance Certificate from the Local Municipal Council .<br>-Obtain consent to transfer from the Commissioner of Lands. This application is made in writing.<br> -Lawyer prepare,authenticate and oversee signing of sales agreement in liasion with the seller’s lawyer.  <br>-Obtain valuation of the property by government valuers.<br> - Submit application for processing  ",
+        "cost": "Stamp duty; 4% urban, rural 2% of land value<br>Valuation; Ksh1,000 for Municipal plots, Ksh 500 for plots in other urban centers<br>Title fees Ksh 500<br>Registration fees: Ksh 500, Attestation: Ksh 1, 000 ",
+        "timelines": "N/A",
+        "mda": "Ministry of Lands & Physical Planning <br>1ST NGONG AVENUE,<br>P.O. BOX 30450-00100,<br>NAIROBI,KENYA.<br>TEL: 254-020-2718050<br>FAX: 254-020-2721248"
+      },
+      {
+        "service": "Processing application for change of user or extension of lease",
+        "information": "Requirements;<br>-Location plan<br> -Planning brief<br>-PPA II from the county <br> -Certified copy of title<br>-Site inspection<br> -Notice of publication",
+        "cost": "Nairobi/Mombasa/Kisumu: Ksh3,000<br> Other municipalities: Ksh1,000<br>Other townships: Ksh500",
+        "timelines": "N/A",
+        "mda": "Ministry of Lands & Physical Planning <br>1ST NGONG AVENUE,<br>P.O. BOX 30450-00100,<br>NAIROBI,KENYA.<br>TEL: 254-020-2718050<br>FAX: 254-020-2721248"
+      },
+      {
+        "service": "Processing of application for sub-divisions",
+        "information": "Requirements;<br><br>-A scheme plan prepared by registered planner<br>-PPA from the  county<br>-Notice of publication<br>-Certification of the title<br>-Consent form Land Control Board/ CLMB",
+        "cost": "2-10 plots: Ksh 200  per plot<br>11-20 plots: Ksh 150 per plot<br> 21-50 plots: Ksh 100 per plot<br>   51 and above: Ksh 80 per plot<br>",
+        "timelines": "N/A",
+        "mda": "Ministry of Lands & Physical Planning <br>1ST NGONG AVENUE,<br>P.O. BOX 30450-00100,<br>NAIROBI,KENYA.<br>TEL: 254-020-2718050<br>FAX: 254-020-2721248"
+      },
+      {
+        "service": "Processing of building plans",
+        "information": "Approved buildings (for building plans) are required for any development/construction <br><br>Requirements;-<br>-Building plans<br> -Site plan<br>-Certified copy of title<br> ",
+        "cost": "Ksh 200-700 depending on the plinth area of building<br>Ordinary projects: Ksh 1,500<br>Comprehensive  projects: Ksh 3,000<br>",
+        "timelines": "N/A",
+        "mda": "Respective County Government"
+      },
+      {
+        "service": "Processing of Environment Impact Assessment and Audit Reports",
+        "information": "National Environmental Management Authority (NEMA) conduct surveys amd provide Environment Impact Assessment Report to give go ahead for any development/construction to be done ",
+        "cost": "Waived",
+        "timelines": "N/A",
+        "mda": " National Environmental Management Authority<br>Popo Road,South C, off Mombasa Road<br>P.O.BOX 67839-00200, Nairobi. Kenya<br>Mobile: 0724 253398, 0735 013046.<br>Email:dgnema@nema.go.ke  "
+      },
+      {
+        "service": "Apply for Electricity Connection",
+        "information": "Electricity is a very important source of energy for businesses. Every newly constructed building or business must apply for electricity connection.<br><br> Required Information<br>-Prove of registration<br>-PIN<br> -Sketch map to building  <br>-Proof of land ownership <br> -Location<br>-Contact Details <br>-Type of connection required<br>-Type of applicant (corporate or individual)",
+        "cost": "Nil",
+        "timelines": "N/A",
+        "mda": "Kenya Power & Lighting Co. Ltd<br>Headquarters Stima Plaza, Kolobot Road, Parklands,<br>P.O Box 30099, NAIROBI<br>Tel: 95551/0703070707/0732170170"
+      },
+      {
+        "service": "Obtain a Construction /Building Permit and Issuance of compliance certificate",
+        "information": "Requirements:<br> -Site map<br>-Architectural plan<br><br> -Site inspection<br> -Approval from the County and NCA<br>-Survey plan (subdivision plans)<br><br> Permits required;<br>  -Civil/structural permit<br> -Electrical permit<br> -Mechanical permit <br> -Sanitary permit <br> -Plumbing permit <br>  -Electronics permit <br>  -Fire Safety Clearance,",
+        "cost": "Nairobi, Kisumu  and Mombasa – Ksh 2,000<br> All other Municipalities –Ksh 1,000<br>All other townships and centre-Ksh 500<br> NCA- Waived ",
+        "timelines": "N/A",
+        "mda": "County Governments<br><br>National Construction Authority<br>9th Floor KCB Plaza,<br> P.O. BOX,21046-00100<br> +254700021222<br>  +254701913723<br> +254701913140<br> info@nca.go.ke<br> Kenya Road, Upper Hill, Nairobi. Kenya<br>"
+      },
+      {
+        "service": "Apply for Water and Sewerage Connection",
+        "information": "Required Documents<br><br>Water Supply<br>-Copy of ID<br> -Copy of KRA PIN<br> -Copy of Title deed<br>Connection charges as outlined in the tariff.<br><br>  Sewer Services<br> -Copy of ID<br>-Copy of KRA PIN<br> -Copy of Title deed<br> -Connection charges as outlined in the tariff.<br><br>In case you have an existing water connection, you will only require the following:<br>-Copy of water bill<br>-Connection charges as outlined in the tariff.<br>-Fees; For domestic consumers Kshs 5000 is paid both for survey and meter deposit while for commercial customers it is Kshs 27,500.",
+        "cost": " For domestic consumers Kshs 5000 is paid both for survey and meter deposit while for commercial customers it is Kshs 27,500.",
+        "timelines": "N/A",
+        "mda": "N/A"
+      },
+      {
+        "service": "Purchase of Civil Servants Scheme Fund houses ",
+        "information": "Requirements:<br>-Application upon advertisement<br>-Deposit",
+        "cost": "Ksh 1000<br>10% of House price",
+        "timelines": "N/A",
+        "mda": "Director, Civil Servants Housing Department on telephone number 020721604, located at Ardhi House, Ground Floor Wing A."
+      },
+      {
+        "service": "Loans for construction or purchase of houses under Civil Servants Housing Scheme",
+        "information": "Application form",
+        "cost": "Ksh 1000",
+        "timelines": "N/A",
+        "mda": "Director, Civil Servants Housing Department on telephone number 020721604, located at Ardhi House, Ground Floor Wing A."
+      }
+    ]
+  },
+  {
+    "name": "Life Event-Travel",
+    "icon": "travel.png",
+    "title": "Travel",
+    "services": [
+      {
+        "service": "Application of Kenyan passport ",
+        "information": "A Kenyan who intends to travel outside Kenya needs a passport. To obtain a passport, one needs to fill the passport application form on www.ecitizen.go.ke and present oneself in person to the Passport Control Officer at Immigration offices in Nairobi, Mombasa or Kisumu. <br> <br> Requirements; <br> Original & copies of birth Certificate and National Identity Card, or a Certificate of naturalization or registration.  <br> Current clear and un-mounted three passport size photographs. <br> The Application must be recommended in section '7' by a citizen of Kenya such as Minister of religion, a Minister or Legal Practitioner, an established Civil Servant or Bank Official personally acquainted with the applicant, but not by immediate relatives. The recommender must attach a copy of his/her National ID or passport.<br> In the case of an applicant who is below the age of eighteen years, the parents or legal guardian’s written consent. <br> In case of an applicant who is adopted, the original adoption certificate, clearance letter from the children’s department, and or, the Court ruling or award. ",
+        "cost": "A series - 4,500 <br> B series - 6,000 <br> C series - 7,500",
+        "timelines": "10 days",
+        "mda": "N/A"
+      },
+      {
+        "service": "Application for Replacement of Passport ",
+        "information": "One may apply for passport replacement if full by submitting application for the passport replacement online on www.ecitizen and present the application in person at Immigration offices in Nairobi, Mombasa or Kisumu.<br> <br>  Such application shall be accompanied by;<br>-Expired or filled up Passport being replaced and its copy <br> - Three colored Passport size photographs of the applicant with one of photos duly certified as true likeness of the applicant by the recommender <br>- Certified copy of the recommender’s National Identity Card ",
+        "cost": "A series - Kshs. 4,500 <br> B series - Kshs. 6,000 <br> C series - Kshs. 7,500",
+        "timelines": "4 days",
+        "mda": "Department of Immigration Services<br>Nyayo House 9th floor, Kenyatta Avenue/Uhuru Highway<br> P.O Box 30191,00100 Nairobi.<br>Tel: +254-20-2222022, +254-20-2217544, +254-20-2218833<br> Email; dis@immigration.go.ke"
+      },
+      {
+        "service": "Application for Replacement of a lost or mutilated passport",
+        "information": "If one’s passport gets lost or damaged, you'll need to fill and submit in person an application for a new passport.<br>  The application shall be accompanied by:- <br> <br> An affidavit of the circumstances surrounding the loss, theft, mutilation or damage. <br> <br> A police report on the loss of the passport Requirements to get lost Kenyan Passport replaced include;<br> 1. Duly completed Passport application form <br>2. Mutilated Passport to be replaced and its copy<br> 3. An affidavit detailing the circumstances under which the mutilation occurred <br> 4. Three colored Passport size photographs of the applicant with one of the photos duly certified as true likeness of the applicant by the recommender 5. Certified copy of the recommender’s National Identity Card ",
+        "cost": "Lost 12,000 and mutilated Ksh. 10,000",
+        "timelines": "4 days",
+        "mda": "Department of Immigration Services<br><br>Nyayo House 9th floor, Kenyatta Avenue/Uhuru Highway<br>P.O Box 30191,00100 Nairobi.<br>Tel: +254-20-2222022, +254-20-2217544, +254-20-2218833<br>Email; dis@immigration.go.ke"
+      },
+      {
+        "service": " Temporary Permit ",
+        "information": "Requirements;<br>- Duly completed Temporary Permit application form <br>- National Identity Card and copy<br> - Two colored Passport size photographs <br>- For an applicant under eighteen (18) years: consent from parent ",
+        "cost": "Ksh. 300",
+        "timelines": "30 minutes",
+        "mda": "Department of Immigration Services<br><br>Nyayo House 9th floor, Kenyatta Avenue/Uhuru Highway<br>P.O Box 30191,00100 Nairobi.<br>Tel: +254-20-2222022, +254-20-2217544, +254-20-2218833<br>Email; dis@immigration.go.ke"
+      },
+      {
+        "service": "VISA",
+        "information": "Requirements; <br> - Valid passports or other travel documents including Seaman’s Discharge Book, acceptable to the Government of Kenya are required for all persons wishing to enter Kenya (must be valid for at least Six (6) Months and have a clean and a full visa page for endorsement). <br>- Two visa application forms V.I to be duly filled, signed and dated.  <br>- Two copies of an Invitation letter/ Cover letter from the applicant. <br>- Two copies of identity card if host is Kenyan. <br> - Two copies of valid residential work permit if host is a foreigner.  <br>- Two copies of marriage certificate if visiting spouse. <br>- Two passport size photographs of the applicant. <br> - Two copies of valid Passport/travel document of the applicants Bio data page and page showing validity of at least six months. <br>- Two copies of medical referral letter from a hospital or a doctor for medical cases.<br> - Two copies of applicants residential/work permit if not residing in their country.",
+        "cost": "Ordinary Visa - $ 10<br>Transit Visa - $20<br>Multiple Journey VISAS & East Africa Tourist Visa - $100",
+        "timelines": "N/A",
+        "mda": "Department of Immigration Services <br>Nyayo House 9th floor, Kenyatta Avenue/Uhuru Highway<br>P.O Box 30191,00100 Nairobi.<br>Tel: +254-20-2222022, +254-20-2217544, +254-20-2218833<br>Email; dis@immigration.go.ke"
+      },
+      {
+        "service": "Permits or Passes ",
+        "information": "An immigration pass or permit is required by all persons, other than Kenya citizens wishing to enter Kenya.<br> <br>Work/Residence Permits are issued to any Non-Kenyan wishing to engage in employment in Kenya whether in gainful employment or voluntary service. The Work/Residence Permits issued by the Department are classified from A to M <br><br>  General requirements;<br>- Dully filled and signed application Form 3.<br> - Covering letter from employer/self/organization depending on the class (as applicable)<br>- Copies of the National Passport.<br>- Two coloured Passport size photographs. ",
+        "cost": "Processing Fee Kshs.10,000<br> Non-refundable Fee is Ksh. 5,000 - Kshs200,000/= per year depending of the permit class ",
+        "timelines": "N/A",
+        "mda": "Department of Immigration Services<br><br>Nyayo House 9th floor, Kenyatta Avenue/Uhuru Highway<br>P.O Box 30191,00100 Nairobi.<br>Tel: +254-20-2222022, +254-20-2217544, +254-20-2218833<br>Email; dis@immigration.go.ke"
+      }
+    ]
+  },
+  {
+    "name": "Life Event-Paying Taxes",
+    "icon": "paying-taxes.png",
+    "title": "Paying taxes",
+    "services": [
+      {
+        "service": "KRA PIN Registration/ PIN Update",
+        "information": "KRA PIN application can be done at any Huduma Centre countrywide. <br><br>Requirements:<br>1. ID Number<br><br>Process:<br>-Log on to www.kra.go.ke/portal. Open Taxpayer Registration.<br>-Choose New/ Existing as required<br>-Fill mandatory fields when pin is sent to email address<br>-Go to tax payer registration. Fill in PIN, Password,Stamp,Change,Password",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "Kenya Revenue Authority (KRA) Times Tower, Haile Selassie Avenue, Nairobi 020-4999999, 0711-099999 callcentre@kra.go.ke"
+      },
+      {
+        "service": "Tax Compliance Cert.Application ",
+        "information": "The KRA Tax Compliance Certificate is required by individuals and companies in order to qualify for some positions or to apply for tenders. Application for Tax compliance Certificate (TCC) can be made at any Huduma Centre countywide or made on KRA itax platform https://itax.kra.go.ke/KRA-Portal/. For online TCC application, log in itax platform, under the Certificates Tab, click on apply for TCC, fill in the details and submit. Upon the application submission, the TCC will be sent to your email address for printing after processing.",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "Kenya Revenue Authority (KRA) Times Tower, Haile Selassie Avenue, Nairobi 020-4999999, 0711-099999 callcentre@kra.go.ke"
+      },
+      {
+        "service": "KRA PIN Data correction e.g. change of particulars ",
+        "information": "To change ones particulars, visit any Huduma Centre countywide or log on KRA itax platform https://itax.kra.go.ke/KRA-Portal/ to apply for the changes. For online amendments, log on to itax platform, under the Registration Tab, click on Amend PIN Details, fill in the amendment details and submit. Amendment acknowledgement receipt will be displayed and can be downloaded thereafter on the itax platform.  ",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "Kenya Revenue Authority (KRA) Times Tower, Haile Selassie Avenue, Nairobi 020-4999999, 0711-099999 callcentre@kra.go.ke"
+      },
+      {
+        "service": "Tax return filing (upload & submission) ",
+        "information": "It is a requirement of KRA that all tax payers fill returns every year. Returns of the previous year must be filled by 30th June of the following year. Failure to submit a return on or before the due date or submitting a payment return without paying the tax due attract a default penalty of Kshs.10, 000 or five percent of the tax due whichever is the higher and additional interest of 2% per month compounded. Tax returns can be done at any Huduma Centre countywide or made on KRA itax platform https://itax.kra.go.ke/KRA-Portal/. For online tax returns, log on to itax platform, click returns menu, fill in the details and submit. ",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "Kenya Revenue Authority (KRA) Times Tower, Haile Selassie Avenue, Nairobi 020-4999999, 0711-099999 callcentre@kra.go.ke"
+      },
+      {
+        "service": "Application of Tax Compliance Certificate ",
+        "information": "The KRA Tax Compliance Certificate is required by individuals and companies in order to qualify for some vacancies and positions or to apply for tenders. Application for Tax compliance Certificate (TCC) can be made at any Huduma Centre countywide or made on KRA itax platform https://itax.kra.go.ke/KRA-Portal/.<br> <br>Requirements for application at Huduma Centres;<br><br>-ID /Passport <br>-Photocopy of KRA PIN<br>-Photocopy of Business Registration Certificates<br><br> Procedure: <br>-Register your PIN on itax <br>-Log into itax profile <br>-Select Tax Compliance under e-certificates<br>-State reason for applying and Submit Takes up to 5 working days. For online TCC application, log in itax platform, under the Certificates Tab, click on apply for TCC, fill in the details and submit. Upon the application submission, the TCC will be sent to your email address for printing after processing.",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "Kenya Revenue Authority (KRA) Times Tower, Haile Selassie Avenue, Nairobi 020-4999999, 0711-099999 callcentre@kra.go.ke"
+      },
+      {
+        "service": "Application for Tax Amnesty for Diaspora Citizens",
+        "information": "Requirements:<br>-Evidence of abroad stay (work permit, resident permit)<br>-Returns of the year of income<br>.",
+        "cost": "Nil",
+        "timelines": "Instant",
+        "mda": "Kenya Revenue Authority (KRA) Times Tower, Haile Selassie Avenue, Nairobi 020-4999999, 0711-099999 callcentre@kra.go.ke"
+      }
+    ]
+  },
+  {
+    "name": "Life Event--Retirement",
+    "icon": "retirement.png",
+    "title": "Retirement",
+    "services": [
+      {
+        "service": "Processing of  Pension Claim documents",
+        "information": "Civil Servants retirement pension plan is managed by the Treasury through the Pensions department. <br> <br>Upon retirement, one needs to have the following for their pension to be processed; <br>-Duly completed pension claim form GP-178<br>-Form GP 213 – WCPS contribution summary<br>-Letters of appointment, confirmation, promotion, upgrading and retirement<br>-Last pay slip/Payment Voucher<br> -Certified copy of ID<br> -Pension Commutation/ Bank details Form<br> -Income Tax Clearance certificate",
+        "cost": "Free",
+        "timelines": "26 days",
+        "mda": "The Treasury, Pensions Department<br> (+254) 020 2252299<br> (+254) 7228888111<br> (+254) 733660606<br>www.treasury.go.ke "
+      },
+      {
+        "service": "Processing of Dependants pension",
+        "information": "Dependants of deceased Civil Servants may apply for Pensions benefits.<br>  <br>They need to have the following; <br>-Duly completed Widows’ Declaration form /Guardianship Certificate form<br> -Certified copy of ID card or claimant and declarant’s/witnesses<br> -Original and copies of death certificate, children’s birth certificates and marriage certificate-Letter from area chief/administration<br> -Bank details form<br>-Copy of bank card<br>  -Letters from School/ College",
+        "cost": "Free",
+        "timelines": "26 days",
+        "mda": "The Treasury, Pensions Department<br> (+254) 020 2252299<br> (+254) 7228888111<br> (+254) 733660606<br>www.treasury.go.ke "
+      },
+      {
+        "service": "Claims for Returned Pensions",
+        "information": "Requirements; <br>a. Original death certificate<br> b. Dependents Birth certificate<br> c. Letter of identification by chief/asst. chief<br> d. Copy of ID",
+        "cost": "Free",
+        "timelines": "5 minutes ",
+        "mda": "The Treasury, Pensions Department<br> (+254) 020 2252299<br> (+254) 7228888111<br> (+254) 733660606<br>www.treasury.go.ke "
+      },
+      {
+        "service": "Change of Pay Point",
+        "information": "Pension beneficiaries may change their paypoints. To do this, one need the following;<br> a. Details of new bank<br> b. Details of old bank<br> ",
+        "cost": "Free",
+        "timelines": "5 minutes ",
+        "mda": "The Treasury, Pensions Department<br> (+254) 020 2252299<br> (+254) 7228888111<br> (+254) 733660606<br>www.treasury.go.ke "
+      },
+      {
+        "service": "Status of Pension Claim",
+        "information": "Retired Civil Servants may check status of their Pension application at any Huduma Centre countrywide.<br> <br>  Requirements; <br> Personal number/ID number<br>",
+        "cost": "Nil",
+        "timelines": "2 minutes ",
+        "mda": "The Treasury, Pensions Department<br> (+254) 020 2252299<br> (+254) 7228888111<br> (+254) 733660606<br>www.treasury.go.ke "
+      },
+      {
+        "service": "Processing of Work Injury Benefits Act and Group Personal Accident Insurance Claims for civil servants",
+        "information": "Civil Servants who get an accident in the course of their duties may seek compensation.<br> <br>  Requirements for compensation are as below; <br> -Police abstract from nearest police station<br> -Doctor’s report & MOH Medical Board report<br>-Certified copies of ID & pay slip of month preceding accident or death<br>-Letter from relevant Ministry reporting accident or death<br><br>  NOTE: Documents must reach Treasury within a period of one month from the time of the accident ",
+        "cost": "Free",
+        "timelines": "14 days",
+        "mda": "The National Treasury<br>Treasury Building, Harambee Avenue<br>P.O Box 30007-00100 <br>Nairobi<br>Tel. +254 20 2252299<br>Email: ps@treasury.go.ke<br>For enquiries email the following addresses:-<br><br>Ethics<br>Email: integrity@treasury.go.ke<br><br>General Enquiries<br>Email: info@treasury.go.ke<br><br>Complaints<br>Email: complaints@treasury.go.ke<br>Tel: 0771 448232 "
+      },
+      {
+        "service": "Apply for Older Persons Grant",
+        "information": "You can get a grant to see you through your old age. An older person’s grant is paid to Kenyan women and men who are 70 years and above. This grant used to be called the old age pension. This is Cash Transfer programme for government of Kenya for national social protection that serves the non-pensionable and aged Kenyans, who are not formally employed but growing in age.<br> <br>The government of Kenya provides a monthly cash transfer of ksh 2000 to each household with destitute elderly people. The cash is aimed at strengthening their capacities to improve their livelihood.<br> <br> Instructions<br> -You must be an older persons and permanent resident of Kenya aged 70 years<br>-You must be a low income earner<br>-You must have registered with your local council or district with a card of registration.<br>-You must be economically active, but not gainfully employed Required Information ",
+        "cost": "Ksh. 2000",
+        "timelines": "N/A",
+        "mda": "Ministry of Labour, Social Security and Services<br>Located on Block A 7th Floor of NSSF Building in Nairobi.<br>P.O. Box 40326-00100, Nairobi.<br> Telephone: (020)2729800.<br> Website: http://www.labour.go.ke/"
+      }
+    ]
+  }
+
+
+]
+
+
+
+
+
+
