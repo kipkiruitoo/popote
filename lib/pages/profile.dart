@@ -1,6 +1,7 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:huduma_popote/pages/settings.dart';
 
 class ProfilePage extends StatefulWidget {
   @override
@@ -12,13 +13,6 @@ class _ProfilePageState extends State<ProfilePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        backgroundColor: Colors.white,
-        actions: [
-          IconButton(
-              icon: Icon(Icons.settings, color: Colors.black), onPressed: () {})
-        ],
-      ),
       body: Container(
           padding: EdgeInsets.only(left: 16, top: 25, right: 16),
           child: GestureDetector(
@@ -27,9 +21,23 @@ class _ProfilePageState extends State<ProfilePage> {
             },
             child: ListView(
               children: [
-                Text(
-                  "Edit Profile",
-                  style: TextStyle(fontSize: 25, fontWeight: FontWeight.w500),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Text(
+                      "Edit Profile",
+                      style:
+                          TextStyle(fontSize: 25, fontWeight: FontWeight.w500),
+                    ),
+                    IconButton(
+                        icon: Icon(Icons.settings, color: Colors.black),
+                        onPressed: () {
+                          Navigator.of(context)
+                              .push(MaterialPageRoute(builder: (ctx) {
+                            return SettingsPage();
+                          }));
+                        })
+                  ],
                 ),
                 SizedBox(
                   height: 15,
