@@ -1,0 +1,20 @@
+[
+    {
+        "name": "KRA",
+        "img": "birth.png",
+        "services" : [
+            {
+                "name": "KRA PIN Registration and PIN Update",
+                "description" : "<p>KRA PIN application can be done at any Huduma Centre countrywide.</p><p>Requirements:<br />1. ID Number</p><p>Process:<br />-Log on to www.kra.go.ke/portal. Open Taxpayer Registration.<br />-Choose New/ Existing as required<br />-Fill mandatory fields when pin is sent to email address<br />-Go to tax payer registration. Fill in PIN, Password,Stamp,Change,Password<br />Cost: Nil<br />Timelines: Instant</p><p>For more information call Huduma Contact Centre: +254 (020) 6900020</p><p>Or visit nearest Huduma Centre</p><p>Or Contact: Kenya Revenue Authority (KRA) Times Tower, Haile Selassie Avenue, Nairobi 020-4999999, 0711-099999 callcentre@kra.go.ke</p>"
+
+            },
+              {
+                "name": "Tax Compliance Certificate Application",
+                "description" : "<p>The KRA Tax Compliance Certificate is required by individuals and companies in order to qualify for some positions or to apply for tenders. Application for Tax compliance Certificate (TCC) can be made at any Huduma Centre countywide or made on KRA itax platform https://itax.kra.go.ke/KRA-Portal/. For online TCC application, log in itax platform, under the Certificates Tab, click on apply for TCC, fill in the details and submit. Upon the application submission, the TCC will be sent to your email address for printing after processing.</p><p><br />Cost: Nil</p><p><br />Timelines: Instant</p><p>&nbsp;</p><p>For more information call Huduma Contact Centre: +254 (020) 6900020</p><p>Or visit nearest Huduma Centre</p><p>Or Contact: Kenya Revenue Authority (KRA) Times Tower, Haile Selassie Avenue, Nairobi 020-4999999, 0711-099999 callcentre@kra.go.ke</p><p>KRA PIN application can be done at any Huduma Centre countrywide.</p><p>Requirements:<br />1. ID Number</p><p>Process:<br />-Log on to www.kra.go.ke/portal. Open Taxpayer Registration.<br />-Choose New/ Existing as required<br />-Fill mandatory fields when pin is sent to email address<br />-Go to tax payer registration. Fill in PIN, Password,Stamp,Change,Password<br />Cost: Nil<br />Timelines: Instant</p><p>For more information call Huduma Contact Centre: +254 (020) 6900020</p><p>Or visit nearest Huduma Centre</p><p>Or Contact: Kenya Revenue Authority (KRA) Times Tower, Haile Selassie Avenue, Nairobi 020-4999999, 0711-099999 callcentre@kra.go.ke</p>"
+
+            }
+            
+        ]
+
+    }
+]

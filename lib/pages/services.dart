@@ -40,7 +40,7 @@ class _ServicesPageState extends State<ServicesPage> {
                   ? searchField()
                   : Image(
                       image: AssetImage("assets/images/logo.png"),
-                      width: 60,
+                      width: 55,
                     ),
               actions: [
                 IconButton(
