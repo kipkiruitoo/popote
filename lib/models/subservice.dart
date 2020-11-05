@@ -1,6 +1,6 @@
 class SubService {
   String title;
-  String description, cost, timelines, contact;
+  String description, cost, requirements, timelines, contact;
   int serviceId;
 
   SubService(
@@ -9,5 +9,6 @@ class SubService {
       this.cost = "N/A",
       this.contact = "N/A",
       this.timelines = "N/A",
+      this.requirements = "N/A",
       this.serviceId});
 }

@@ -22,6 +22,34 @@
             
         ]
 
+    },
+        {
+        "name": "National Registration Bureau",
+        "img": "birth.png",
+        "ministry" : "Ministry of Interior and Coordination of National Government",
+        "services" : [
+            {
+                "name": "Issuance of Initial Identity Card",
+                "requirements" : "1.Birth certificate or secondary school leaving certificate or baptismal certificate and respective photocopies <br>2.Parents’ Identity Cards and copies (in case of single or deceased parent, one ID card and copy is acceptable)",
+                "timelines": "90-120 days"
+            },
+              {
+                "name": "Change of Particulars on ones ID Card",
+                "requirements": "1.Marriage Certificate<br/>2.Deed Poll<br/>3.School leaving Certificates<br/>4.Sworn affidavits<br/>5.Confirmation letters from administrative office<br/>6.Birth Certificate<br/>7.Copy of parents ID card8.Parental consent to marriage<br/>9.Divorce Certificate",
+                "timelines" : "30-90 days",
+                "cost": "1000 kshs"
+              
+            },
+             {
+                "name": "Issuance of Duplicate Identity Card",
+                "requirements" : "1.Police abstract",
+                "cost": "100 kshs",
+                "timelines" : "10 days"
+             
+            }
+            
+        ]
+
     }
 
 ]

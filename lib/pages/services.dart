@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'dart:convert';
 // import 'package:huduma_popote/data/services.dart';
 import 'package:huduma_popote/models/service.dart';
+import 'package:huduma_popote/pages/departments.dart';
 import 'package:huduma_popote/pages/subservices.dart';
 
 import 'huduma_services.dart';
@@ -113,10 +114,7 @@ class _ServicesPageState extends State<ServicesPage> {
                         },
                       ),
                       HudumaCenter(),
-                      Center(
-                          child: Container(
-                        child: Text("the departments will be here"),
-                      ))
+                      DepartmentsPage(),
                     ],
                   ),
                 ),
