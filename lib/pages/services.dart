@@ -5,6 +5,8 @@ import 'dart:convert';
 import 'package:huduma_popote/models/service.dart';
 import 'package:huduma_popote/pages/subservices.dart';
 
+import 'huduma_services.dart';
+
 class ServicesPage extends StatefulWidget {
   @override
   _ServicesPageState createState() => _ServicesPageState();
@@ -31,105 +33,96 @@ class _ServicesPageState extends State<ServicesPage> {
     return DefaultTabController(
       length: 3,
       child: Scaffold(
-        body: CustomScrollView(
-          slivers: [
-            SliverAppBar(
-              elevation: 0,
-              backgroundColor: Colors.white,
-              title: _search
-                  ? searchField()
-                  : Image(
-                      image: AssetImage("assets/images/logo.png"),
-                      width: 55,
-                    ),
-              actions: [
-                IconButton(
-                    icon: Icon(
-                      Icons.search,
-                      color: Colors.black,
-                    ),
-                    onPressed: () {
-                      setState(() {
-                        _search = !_search;
-                      });
-                    })
-              ],
-              centerTitle: true,
-            ),
-            SliverToBoxAdapter(
-              child: Container(
-                padding: EdgeInsets.all(10),
-                child: TabBar(
-                    indicatorColor: Colors.red,
-                    unselectedLabelColor: Colors.black.withOpacity(0.5),
-                    labelColor: Colors.black,
-                    tabs: [
-                      Tab(
-                        child: Text("Government Services",
-                            textAlign: TextAlign.center,
-                            style: TextStyle(
-                              color: Colors.black,
-                            )),
+        body: GestureDetector(
+          onTap: () {
+            FocusScope.of(context).unfocus();
+          },
+          child: CustomScrollView(
+            slivers: [
+              SliverAppBar(
+                elevation: 0,
+                backgroundColor: Colors.white,
+                title: _search
+                    ? searchField()
+                    : Image(
+                        image: AssetImage("assets/images/logo.png"),
+                        width: 55,
                       ),
-                      Tab(
-                        child: Text("Huduma Centers",
-                            textAlign: TextAlign.center,
-                            style: TextStyle(color: Colors.black)),
-                      ),
-                      Tab(
-                        child: Text("Departments",
-                            textAlign: TextAlign.center,
-                            style: TextStyle(color: Colors.black)),
-                      )
-                    ]),
+                actions: [],
+                centerTitle: true,
               ),
-            ),
-            SliverToBoxAdapter(
-              child: Container(
-                height: MediaQuery.of(context).size.height * 0.75,
-                child: TabBarView(
-                  children: [
-                    FutureBuilder(
-                      future: DefaultAssetBundle.of(context)
-                          .loadString('assets/data/life-events.json'),
-                      builder: (context, snapshot) {
-                        if (snapshot.connectionState ==
-                            ConnectionState.waiting) {
-                          return Center(
-                            child: CircularProgressIndicator(),
-                          );
-                        } else {
-                          List<Service> services =
-                              parseJosn(snapshot.data.toString());
-                          return Container(
-                            height: MediaQuery.of(context).size.height * 0.8,
-                            child: GridView.builder(
-                              gridDelegate:
-                                  SliverGridDelegateWithFixedCrossAxisCount(
-                                crossAxisCount: 2,
-                              ),
-                              itemBuilder: (ctx, index) {
-                                return ServiceCard(service: services[index]);
-                              },
-                              itemCount: services.length,
-                            ),
-                          );
-                        }
-                      },
-                    ),
-                    Center(
-                        child: Container(
-                      child: Text("the huduma centers will appear over here"),
-                    )),
-                    Center(
-                        child: Container(
-                      child: Text("the departments will be here"),
-                    ))
-                  ],
+              SliverToBoxAdapter(
+                child: Container(
+                  padding: EdgeInsets.all(10),
+                  child: TabBar(
+                      indicatorColor: Colors.red,
+                      unselectedLabelColor: Colors.black.withOpacity(0.5),
+                      labelColor: Colors.black,
+                      tabs: [
+                        Tab(
+                          child: Text("Government Services",
+                              textAlign: TextAlign.center,
+                              style: TextStyle(
+                                color: Colors.black,
+                              )),
+                        ),
+                        Tab(
+                          child: Text("Huduma Centers",
+                              textAlign: TextAlign.center,
+                              style: TextStyle(color: Colors.black)),
+                        ),
+                        Tab(
+                          child: Text("Departments",
+                              textAlign: TextAlign.center,
+                              style: TextStyle(color: Colors.black)),
+                        )
+                      ]),
                 ),
               ),
-            )
-          ],
+              SliverToBoxAdapter(
+                child: Container(
+                  height: MediaQuery.of(context).size.height * 0.75,
+                  child: TabBarView(
+                    children: [
+                      FutureBuilder(
+                        future: DefaultAssetBundle.of(context)
+                            .loadString('assets/data/life-events.json'),
+                        builder: (context, snapshot) {
+                          if (snapshot.connectionState ==
+                              ConnectionState.waiting) {
+                            return Center(
+                              child: CircularProgressIndicator(),
+                            );
+                          } else {
+                            List<Service> services =
+                                parseJosn(snapshot.data.toString());
+                            return Container(
+                              height: MediaQuery.of(context).size.height * 0.8,
+                              child: GridView.builder(
+                                gridDelegate:
+                                    SliverGridDelegateWithFixedCrossAxisCount(
+                                  crossAxisCount: 2,
+                                ),
+                                itemBuilder: (ctx, index) {
+                                  return ServiceCard(service: services[index]);
+                                },
+                                itemCount: services.length,
+                              ),
+                            );
+                          }
+                        },
+                      ),
+                      HudumaCenter(),
+                      Center(
+                          child: Container(
+                        child: Text("the departments will be here"),
+                      ))
+                    ],
+                  ),
+                ),
+              )
+            ],
+          ),
         ),
       ),
     );
