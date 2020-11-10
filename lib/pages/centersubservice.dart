@@ -3,6 +3,7 @@ import 'package:flutter_html/flutter_html.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:huduma_popote/models/center.dart';
 import 'package:huduma_popote/models/subservice.dart';
+import 'package:huduma_popote/pages/bookAppointment.dart';
 
 class CenterSubServicesPage extends StatefulWidget {
   CenterModel center;
@@ -154,7 +155,37 @@ class _CenterSubServicesPageState extends State<CenterSubServicesPage> {
                                       ),
                                       Html(
                                           data: searchedsubservices[index]
-                                              .contact)
+                                              .contact),
+                                      SizedBox(
+                                        height: 6,
+                                      ),
+                                      Center(
+                                        child: RaisedButton(
+                                            color: Colors.green,
+                                            padding: EdgeInsets.symmetric(
+                                                horizontal: 50),
+                                            shape: RoundedRectangleBorder(
+                                                borderRadius:
+                                                    BorderRadius.circular(20)),
+                                            child: Text(
+                                              "Book Appointment",
+                                              style: TextStyle(
+                                                  fontSize: 14,
+                                                  color: Colors.white,
+                                                  letterSpacing: 2.2),
+                                            ),
+                                            onPressed: () {
+                                              Navigator.of(context).push(
+                                                  new MaterialPageRoute(
+                                                      builder: (ctx) {
+                                                return BookAppointment(
+                                                  center: widget.center,
+                                                  service: searchedsubservices[
+                                                      index],
+                                                );
+                                              }));
+                                            }),
+                                      )
                                     ],
                                   ),
                                 ),
