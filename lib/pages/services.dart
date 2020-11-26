@@ -4,6 +4,7 @@ import 'dart:convert';
 // import 'package:huduma_popote/data/services.dart';
 import 'package:huduma_popote/models/service.dart';
 import 'package:huduma_popote/pages/departments.dart';
+import 'package:huduma_popote/pages/landingPage.dart';
 import 'package:huduma_popote/pages/subservices.dart';
 
 import 'huduma_services.dart';
@@ -31,99 +32,146 @@ class _ServicesPageState extends State<ServicesPage> {
 
   @override
   Widget build(BuildContext context) {
+    final Size screenSize = MediaQuery.of(context).size;
+
     return DefaultTabController(
-      length: 3,
-      child: Scaffold(
-        body: GestureDetector(
-          onTap: () {
-            FocusScope.of(context).unfocus();
-          },
-          child: CustomScrollView(
-            slivers: [
-              SliverAppBar(
-                elevation: 0,
-                backgroundColor: Colors.white,
-                title: _search
-                    ? searchField()
-                    : Image(
-                        image: AssetImage("assets/images/logo.png"),
-                        width: 55,
-                      ),
-                actions: [],
-                centerTitle: true,
-              ),
-              SliverToBoxAdapter(
+        length: 4,
+        child: Scaffold(
+          appBar: AppBar(
+            elevation: 0,
+            backgroundColor: Colors.white,
+            leading: Image.asset("assets/images/logo.png"),
+            title: Text(
+              "Huduma Online",
+              style: TextStyle(color: Colors.black),
+            ),
+            centerTitle: true,
+            bottom: PreferredSize(
+              preferredSize: Size.fromHeight(55),
+              child: Container(
                 child: Container(
-                  padding: EdgeInsets.all(10),
+                  padding: EdgeInsets.only(top: 8.0, left: 8.0, right: 8.0),
+                  decoration: BoxDecoration(
+                    gradient: LinearGradient(
+                        begin: Alignment.topCenter,
+                        end: Alignment.bottomCenter,
+                        colors: [Colors.red, Colors.black]),
+                  ),
                   child: TabBar(
-                      indicatorColor: Colors.red,
-                      unselectedLabelColor: Colors.black.withOpacity(0.5),
                       labelColor: Colors.black,
+                      unselectedLabelColor: Colors.white,
+                      indicatorSize: TabBarIndicatorSize.tab,
+                      indicator: BoxDecoration(
+                          borderRadius: BorderRadius.only(
+                              topLeft: Radius.circular(10),
+                              topRight: Radius.circular(10)),
+                          color: Colors.white),
                       tabs: [
                         Tab(
-                          child: Text("Government Services",
-                              textAlign: TextAlign.center,
-                              style: TextStyle(
-                                color: Colors.black,
-                              )),
-                        ),
+                            child: Text(
+                          "Home",
+                          // style: TextStyle(color: Colors.black),
+                        )),
                         Tab(
-                          child: Text("Huduma Centers",
-                              textAlign: TextAlign.center,
-                              style: TextStyle(color: Colors.black)),
-                        ),
+                            child: Text(
+                          "Life Events",
+                          // style: TextStyle(color: Colors.black),
+                        )),
                         Tab(
-                          child: Text("Departments",
-                              textAlign: TextAlign.center,
-                              style: TextStyle(color: Colors.black)),
-                        )
+                            child: Text(
+                          "Centers",
+                          // style: TextStyle(color: Colors.black),
+                        )),
+                        Tab(
+                            child: Text(
+                          "MDAs",
+                          // style: TextStyle(color: Colors.black),
+                        ))
                       ]),
                 ),
               ),
-              SliverToBoxAdapter(
-                child: Container(
-                  height: MediaQuery.of(context).size.height * 0.75,
-                  child: TabBarView(
-                    children: [
-                      FutureBuilder(
-                        future: DefaultAssetBundle.of(context)
-                            .loadString('assets/data/life-events.json'),
-                        builder: (context, snapshot) {
-                          if (snapshot.connectionState ==
-                              ConnectionState.waiting) {
-                            return Center(
-                              child: CircularProgressIndicator(),
-                            );
-                          } else {
-                            List<Service> services =
-                                parseJosn(snapshot.data.toString());
-                            return Container(
-                              height: MediaQuery.of(context).size.height * 0.8,
-                              child: GridView.builder(
-                                gridDelegate:
-                                    SliverGridDelegateWithFixedCrossAxisCount(
-                                  crossAxisCount: 2,
-                                ),
-                                itemBuilder: (ctx, index) {
-                                  return ServiceCard(service: services[index]);
-                                },
-                                itemCount: services.length,
-                              ),
-                            );
-                          }
-                        },
-                      ),
-                      HudumaCenter(),
-                      DepartmentsPage(),
-                    ],
-                  ),
-                ),
-              )
-            ],
+            ),
           ),
-        ),
-      ),
-    );
+          body: GestureDetector(
+            onTap: () {
+              FocusScope.of(context).unfocus();
+            },
+            child: CustomScrollView(
+              slivers: [
+                // SliverToBoxAdapter(
+                //   child: Container(
+                //     padding: EdgeInsets.all(10),
+                //     child: TabBar(
+                //         indicatorColor: Colors.red,
+                //         unselectedLabelColor: Colors.black.withOpacity(0.5),
+                //         labelColor: Colors.black,
+                //         tabs: [
+                //           Tab(
+                //             child: Text("Government Services",
+                //                 textAlign: TextAlign.center,
+                //                 style: TextStyle(
+                //                   color: Colors.black,
+                //                 )),
+                //           ),
+                //           Tab(
+                //             child: Text("Huduma Centers",
+                //                 textAlign: TextAlign.center,
+                //                 style: TextStyle(color: Colors.black)),
+                //           ),
+                //           Tab(
+                //             child: Text("Departments",
+                //                 textAlign: TextAlign.center,
+                //                 style: TextStyle(color: Colors.black)),
+                //           )
+                //         ]),
+                //   ),
+                // ),
+                SliverToBoxAdapter(
+                  child: Container(
+                    height: MediaQuery.of(context).size.height * 0.75,
+                    child: TabBarView(
+                      children: [
+                        LandingPage(),
+                        FutureBuilder(
+                          future: DefaultAssetBundle.of(context)
+                              .loadString('assets/data/life-events.json'),
+                          builder: (context, snapshot) {
+                            if (snapshot.connectionState ==
+                                ConnectionState.waiting) {
+                              return Center(
+                                child: CircularProgressIndicator(),
+                              );
+                            } else {
+                              List<Service> services =
+                                  parseJosn(snapshot.data.toString());
+                              return Container(
+                                height:
+                                    MediaQuery.of(context).size.height * 0.8,
+                                child: GridView.builder(
+                                  gridDelegate:
+                                      SliverGridDelegateWithFixedCrossAxisCount(
+                                    crossAxisCount: 2,
+                                  ),
+                                  itemBuilder: (ctx, index) {
+                                    return ServiceCard(
+                                        service: services[index]);
+                                  },
+                                  itemCount: services.length,
+                                ),
+                              );
+                            }
+                          },
+                        ),
+                        HudumaCenter(),
+                        DepartmentsPage(),
+                      ],
+                    ),
+                  ),
+                )
+              ],
+            ),
+          ),
+        ));
   }
 
   List<Service> parseJosn(String response) {
