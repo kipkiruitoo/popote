@@ -5,15 +5,19 @@ import 'package:flutter_icons/flutter_icons.dart';
 import 'package:huduma_popote/models/center.dart';
 import 'package:huduma_popote/pages/centersubservice.dart';
 import 'package:huduma_popote/pages/subservices.dart';
+import 'package:huduma_popote/services/services.dart';
 
 class HudumaCenter extends StatefulWidget {
   @override
   _HudumaCenterState createState() => _HudumaCenterState();
 }
 
-class _HudumaCenterState extends State<HudumaCenter> {
-  TextEditingController editingController = new TextEditingController();
+class _HudumaCenterState extends State<HudumaCenter>
+    with AutomaticKeepAliveClientMixin<HudumaCenter> {
+  @override
+  bool get wantKeepAlive => true;
 
+  List<CenterModel> centers = new List();
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
@@ -21,52 +25,27 @@ class _HudumaCenterState extends State<HudumaCenter> {
         FocusScope.of(context).unfocus();
       },
       child: Container(
+        key: PageStorageKey("huduma-centers"),
         child: Column(children: [
-          // Padding(
-          //   padding: const EdgeInsets.all(10.0),
-          //   child: TextField(
-          //     controller: editingController,
-          //     onChanged: (value) {
-          //       filterSearchResults(value);
-          //     },
-          //     decoration: InputDecoration(
-          //         labelText: "Search",
-          //         hintText: "Search",
-          //         labelStyle: TextStyle(color: Colors.red),
-          //         prefixIcon: Icon(Feather.search),
-          //         focusColor: Colors.red,
-          //         enabledBorder: const OutlineInputBorder(
-          //           // width: 0.0 produces a thin "hairline" border
-          //           borderSide:
-          //               const BorderSide(color: Colors.grey, width: 0.0),
-          //         ),
-          //         focusedBorder: const OutlineInputBorder(
-          //           // width: 0.0 produces a thin "hairline" border
-          //           borderSide: const BorderSide(color: Colors.red, width: 0.7),
-          //         ),
-          //         border: OutlineInputBorder(
-          //             borderRadius: BorderRadius.all(Radius.circular(10.0)))),
-          //   ),
-          // ),
           Container(
-            height: MediaQuery.of(context).size.height * 0.7,
+            height: MediaQuery.of(context).size.height * 0.75,
             child: FutureBuilder(
-              future: DefaultAssetBundle.of(context)
-                  .loadString('assets/data/centers.json'),
+              future: fetchCenters(),
               builder: (context, snapshot) {
                 if (snapshot.connectionState == ConnectionState.waiting) {
                   return Center(
                     child: CircularProgressIndicator(),
                   );
                 } else {
-                  List<CenterModel> services =
-                      parseJosn(snapshot.data.toString());
+                  print(snapshot.data);
+
+                  List<CenterModel> centers = snapshot.data;
                   return Container(
                     child: ListView.builder(
-                        itemCount: services.length,
+                        itemCount: centers.length,
                         itemBuilder: (ctx, index) {
                           return CenterCard(
-                            center: services[index],
+                            center: centers[index],
                           );
                         }),
                   );
@@ -79,17 +58,29 @@ class _HudumaCenterState extends State<HudumaCenter> {
     );
   }
 
-  void filterSearchResults(String value) {}
+  Future fetchCenters() async {
+    var res = await PopoteService().getData('/centres');
 
-  List<CenterModel> parseJosn(String response) {
-    if (response == null) {
-      return [];
+    List<CenterModel> centerList = new List();
+
+    var body = json.decode(res.body);
+
+    if (!body["success"]) {
+      return null;
+    } else {
+      var centers = body["results"];
+
+      centers.forEach((element) {
+        centerList.add(new CenterModel(
+            name: element["name"],
+            id: element["id"],
+            code: element["code"],
+            openingTime: element["openingtime"],
+            closingTime: element["closingtime"]));
+      });
+
+      return centerList;
     }
-    final parsed =
-        json.decode(response.toString()).cast<Map<String, dynamic>>();
-    return parsed
-        .map<CenterModel>((json) => new CenterModel.fromJson(json))
-        .toList();
   }
 }
 

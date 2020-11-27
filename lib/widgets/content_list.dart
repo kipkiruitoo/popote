@@ -1,10 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:huduma_popote/models/content_model.dart';
+import 'package:huduma_popote/models/departmentSubService.dart';
+import 'package:huduma_popote/pages/departmentSubServicesPage.dart';
+// import 'package:huduma_popote/models/departmentSubService.dart';
 // import 'package:flutter_netflix_responsive_ui/models/content_model.dart';
 
 class ContentList extends StatelessWidget {
   final String title;
-  final List<Content> contentList;
+  final List<DepartmentService> contentList;
   final bool isOriginals;
 
   const ContentList(
@@ -26,25 +29,41 @@ class ContentList extends StatelessWidget {
           ),
         ),
         Container(
-          height: isOriginals ? 500.0 : 220,
+          height: isOriginals ? 350.0 : 220,
           child: ListView.builder(
             scrollDirection: Axis.horizontal,
             padding:
                 const EdgeInsets.symmetric(vertical: 12.0, horizontal: 16.0),
             itemCount: contentList.length,
             itemBuilder: (ctx, index) {
-              final Content content = contentList[index];
+              final DepartmentService content = contentList[index];
 
               return GestureDetector(
-                onTap: () => print(content.name),
-                child: Container(
-                  margin: EdgeInsets.symmetric(horizontal: 8.0),
-                  height: isOriginals ? 400.0 : 200,
-                  width: isOriginals ? 200.0 : 130.0,
-                  decoration: BoxDecoration(
-                      image: DecorationImage(
-                          image: AssetImage(content.imageUrl),
-                          fit: BoxFit.cover)),
+                onTap: () {
+                  Navigator.of(context)
+                      .push(new MaterialPageRoute(builder: (ctx) {
+                    return DepartmentSubServicesPage(
+                      department: content,
+                    );
+                  }));
+                },
+                child: Card(
+                  elevation: 4,
+                  child: Container(
+                    // padding: EdgeInsets.all(10.0),
+                    margin:
+                        EdgeInsets.symmetric(horizontal: 8.0, vertical: 8.0),
+                    height: isOriginals ? 300.0 : 200,
+                    width: isOriginals ? 200.0 : 130.0,
+                    decoration: BoxDecoration(
+                        image: !isOriginals
+                            ? DecorationImage(
+                                image: AssetImage(content.imageUrl),
+                                fit: BoxFit.cover)
+                            : DecorationImage(
+                                image: AssetImage(content.imageUrl),
+                              )),
+                  ),
                 ),
               );
             },

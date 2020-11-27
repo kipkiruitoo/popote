@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'dart:convert';
-// import 'package:huduma_popote/data/services.dart';
+
 import 'package:huduma_popote/models/service.dart';
 import 'package:huduma_popote/pages/departments.dart';
 import 'package:huduma_popote/pages/landingPage.dart';
@@ -133,6 +133,7 @@ class _ServicesPageState extends State<ServicesPage> {
                       children: [
                         LandingPage(),
                         FutureBuilder(
+                          key: PageStorageKey("life-events"),
                           future: DefaultAssetBundle.of(context)
                               .loadString('assets/data/life-events.json'),
                           builder: (context, snapshot) {
@@ -217,7 +218,7 @@ class ServiceCard extends StatelessWidget {
   ServiceCard({this.service}) {
     service = this.service;
 
-    print(service.image);
+    // print(service.image);
   }
 
   @override

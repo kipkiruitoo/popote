@@ -1,10 +1,18 @@
 import 'package:huduma_popote/models/subservice.dart';
+import 'package:meta/meta.dart';
 
 class DepartmentService {
-  String name, img, ministry;
+  final String name, imageUrl, ministry, code;
+  final int id;
   List<SubService> services;
 
-  DepartmentService({this.name, this.img, this.ministry, this.services});
+  DepartmentService(
+      {this.name,
+      this.id,
+      this.code,
+      this.imageUrl,
+      this.ministry,
+      this.services});
 
   factory DepartmentService.fromJson(Map<String, dynamic> json) {
     var servicesFromJson = json["services"];
@@ -20,7 +28,7 @@ class DepartmentService {
 
     return new DepartmentService(
         name: json['name'] as String,
-        img: json['icon'] as String,
+        imageUrl: json['icon'] as String,
         ministry: json["ministry"] as String,
         services: innerservices);
   }

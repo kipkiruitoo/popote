@@ -6,7 +6,8 @@ class Assets {
 
   static const String sintel = '${_images}sintel.jpg';
   static const String sintelTitle = '${_images}sintel_title.png';
-  static const String sintelVideoUrl = 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4';
+  static const String sintelVideoUrl =
+      'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4';
 
   static const String atla = '${_images}atla.jpg';
   static const String atlaTitle = '${_images}atla_title.png';
@@ -37,5 +38,8 @@ class Assets {
       '${_images}umbrella_academy_title.png';
 
   static const String violetEvergarden = '${_images}violet_evergarden.jpg';
-  static const String witcher = '${_images}witcher.jpg';
+  static const String kra = '${_images}kra.png';
+  static const String ntsa = '${_images}ntsa.png';
+  static const String nssf = '${_images}nssf.png';
+  static const String nhif = '${_images}nhif.png';
 }

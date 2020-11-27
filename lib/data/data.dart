@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:huduma_popote/models/content_model.dart';
+// import 'package:hudumaonline/models/departmentSubService.dart';
+import 'package:huduma_popote/models/departmentSubService.dart';
+// import 'package:hudumaonline/models/departmentSubService.dart';
+// import 'package:hudumaonline/models/departmentSubService.dart';
+// import 'package:hudumaonline/models/departmentSubService.dart';
 
 import '../assets.dart';
 
@@ -88,17 +93,11 @@ final List<Content> myList = const [
   Content(name: 'Black Mirror', imageUrl: Assets.blackMirror),
 ];
 
-final List<Content> originals = const [
-  Content(name: 'Stranger Things', imageUrl: Assets.strangerThings),
-  Content(name: 'The Witcher', imageUrl: Assets.witcher),
-  Content(name: 'The Umbrella Academy', imageUrl: Assets.umbrellaAcademy),
-  Content(name: '13 Reasons Why', imageUrl: Assets.thirteenReasonsWhy),
-  Content(name: 'The End of the F***ing World', imageUrl: Assets.teotfw),
-  Content(name: 'Stranger Things', imageUrl: Assets.strangerThings),
-  Content(name: 'The Witcher', imageUrl: Assets.witcher),
-  Content(name: 'The Umbrella Academy', imageUrl: Assets.umbrellaAcademy),
-  Content(name: '13 Reasons Why', imageUrl: Assets.thirteenReasonsWhy),
-  Content(name: 'The End of the F***ing World', imageUrl: Assets.teotfw),
+final List<DepartmentService> originals = <DepartmentService>[
+  DepartmentService(name: 'KRA', imageUrl: Assets.kra, id: 4),
+  DepartmentService(name: 'NHIF', imageUrl: Assets.nhif, id: 2),
+  DepartmentService(name: 'NTSA', imageUrl: Assets.ntsa, id: 26),
+  DepartmentService(name: 'NSSF', imageUrl: Assets.nssf, id: 1)
 ];
 
 final List<Content> trending = const [

@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Huduma Popote',
+      title: 'Huduma Online',
       theme: ThemeData(
 
         primarySwatch: Colors.blue,
